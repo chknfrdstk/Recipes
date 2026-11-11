@@ -2,7 +2,7 @@
 
 **Servings:** 4
 
-> Source: screenshots IMG_6539.PNG, IMG_6540.PNG, and IMG_6541.PNG, 2026-11-09
+![ Crawfish Étouffée ](images/crawfish-etouffee.jpg)
 
 ## Ingredients
 
