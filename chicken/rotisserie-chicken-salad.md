@@ -1,6 +1,6 @@
 # Rotisserie Chicken Salad
 
-![Rotisserie Chicken Salad](images/rotisserie-chicken-salad.jpg)
+<img src="images/rotisserie-chicken-salad.jpg" alt="Rotisserie Chicken Salad" width="600">
 
 Servings: 5
 

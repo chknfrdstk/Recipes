@@ -1,6 +1,6 @@
 # Broccoli Cheddar Chicken Orzo
 
-![Broccoli Cheddar Chicken Orzo](images/broccoli-cheddar-chicken-orzo.jpg)
+<img src="images/broccoli-cheddar-chicken-orzo.jpg" alt="Broccoli Cheddar Chicken Orzo" width="600">
 
 > Source: screenshots IMG_5255.PNG, IMG_5256.PNG, and IMG_5257.PNG, 2026-11-10
 

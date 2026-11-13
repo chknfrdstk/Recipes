@@ -1,6 +1,6 @@
 # Hungarian Mushroom Soup
 
-![Hungarian Mushroom Soup](images/hungarian-mushroom-soup.jpg)
+<img src="images/hungarian-mushroom-soup.jpg" alt="Hungarian Mushroom Soup" width="600">
 
 > Source: Soup Lovers / Cathy Hinton, All Recipes — screenshots IMG_6545.PNG and IMG_6546.PNG, 2026-11-10
 
