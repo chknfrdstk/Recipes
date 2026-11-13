@@ -48,6 +48,7 @@ gitGraph
     checkout add-mushroom-soup
     commit id: "4ea76c5"
     checkout main
+    merge add-mushroom-soup
     branch add-rotisserie-chicken-salad
     checkout add-rotisserie-chicken-salad
     commit id: "e4ff3b1"
@@ -55,7 +56,7 @@ gitGraph
     merge add-rotisserie-chicken-salad
 ```
 
-> The two branches at the end of the graph — `add-mushroom-soup` and `add-rotisserie-chicken-salad` — are deliberately **not** merged in the diagram. Their merges were not confirmed, so they are shown as open branches. Check first, then merge.
+> All branches in this repo are short-lived and merged — mushroom soup and rotisserie salad are both on main, confirmed from `git log` on 2026-11-12.
 
 ---
 
@@ -66,7 +67,7 @@ Recipes are organised by protein. Recipe images are committed in the repo with a
 ### Chicken
 
 - [Broccoli Cheddar Chicken Orzo](chicken/broccoli-cheddar-chicken-orzo.md) — with photo. No servings count was given in the source — none is claimed here.
-- [Rotisserie Chicken Salad](chicken/rotisserie-chicken-salad.md) — 5 servings. Shred the chicken first, then simply mix everything together. With photo. *(Branch pushed; merge into main not confirmed — see Changelog.)*
+- [Rotisserie Chicken Salad](chicken/rotisserie-chicken-salad.md) — 5 servings. Shred the chicken first, then simply mix everything together. With photo.
 
 ### Seafood
 
@@ -74,7 +75,7 @@ Recipes are organised by protein. Recipe images are committed in the repo with a
 
 ### Soups
 
-- [Hungarian Mushroom Soup](soups/hungarian-mushroom-soup.md) — with photo. *(Branch pushed; merge into main not confirmed — see Changelog.)*
+- [Hungarian Mushroom Soup](soups/hungarian-mushroom-soup.md) — with photo.
 
 ---
 
