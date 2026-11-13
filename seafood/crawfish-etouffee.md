@@ -2,7 +2,7 @@
 
 **Servings:** 4
 
-![ Crawfish Étouffée ](images/crawfish-etouffee.jpg)
+<img src="images/crawfish-etouffee.jpg" alt=" Crawfish Étouffée " width="600">
 
 ## Ingredients
 
