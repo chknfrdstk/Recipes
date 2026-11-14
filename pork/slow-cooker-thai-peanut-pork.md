@@ -1,5 +1,7 @@
 # Slow Cooker Thai Peanut Pork
 
+<img width="600" src="images/slow-cooker-thai-peanut-pork.jpg" alt="Slow Cooker Thai Peanut Pork">
+
 ## Ingredients
 
 - 2 lb pork shoulder or pork loin

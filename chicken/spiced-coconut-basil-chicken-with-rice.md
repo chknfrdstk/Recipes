@@ -1,5 +1,7 @@
 # Spiced Coconut Basil Chicken with Rice
 
+<img width="600" src="images/spiced-coconut-basil-chicken-with-rice.jpg" alt="Spiced Coconut Basil Chicken with Rice">
+
 Servings: 4
 
 Prep Time: 10 minutes | Cooking Time: 20 minutes | Total Time: 30 minutes

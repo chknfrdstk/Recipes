@@ -1,5 +1,7 @@
 # Creamy Chicken Poblano Pepper Soup
 
+<img width="600" src="images/creamy-chicken-poblano-pepper-soup.jpg" alt="Creamy Chicken Poblano Pepper Soup">
+
 ## Ingredients
 
 - 3 poblano peppers

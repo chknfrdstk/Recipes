@@ -1,5 +1,7 @@
 # Coconut Red Curry Drip Beef
 
+<img width="600" src="images/coconut-red-curry-drip-beef.jpg" alt="Coconut Red Curry Drip Beef">
+
 ## Ingredients
 
 - 3 lbs chuck roast or beef shoulder

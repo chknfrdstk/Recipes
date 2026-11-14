@@ -1,5 +1,7 @@
 # Chipotle Chicken Burrito Rice Bowl
 
+<img width="600" src="images/chipotle-chicken-burrito-rice-bowl.jpg" alt="Chipotle Chicken Burrito Rice Bowl">
+
 ## Ingredients
 
 ### For the Chicken

@@ -1,5 +1,7 @@
 # Black Pepper Chicken with Mushrooms
 
+<img width="600" src="images/black-pepper-chicken-with-mushrooms-2.jpg" alt="Black Pepper Chicken with Mushrooms">
+
 ## Ingredients
 
 ### For the Chicken

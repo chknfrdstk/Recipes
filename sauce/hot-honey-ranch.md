@@ -1,5 +1,7 @@
 # Hot Honey Ranch
 
+<img width="600" src="images/hot-honey-ranch.jpg" alt="Hot Honey Ranch">
+
 ## Ingredients
 
 - 1 cup avocado oil

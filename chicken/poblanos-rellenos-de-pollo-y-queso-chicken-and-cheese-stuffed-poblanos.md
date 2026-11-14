@@ -1,5 +1,7 @@
 # Poblanos Rellenos de Pollo y Queso (Chicken & Cheese Stuffed Poblanos)
 
+<img width="600" src="images/poblanos-rellenos-de-pollo-y-queso.jpg" alt="Poblanos Rellenos de Pollo y Queso (Chicken & Cheese Stuffed Poblanos)">
+
 ## Ingredients
 
 - 8 medium poblano peppers

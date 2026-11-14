@@ -1,5 +1,7 @@
 # Garlic Butter Chicken and Parmesan Rice
 
+<img width="600" src="images/garlic-butter-chicken-and-parmesan-rice.jpg" alt="Garlic Butter Chicken and Parmesan Rice">
+
 ## Ingredients
 
 - 1 lb. chicken thighs

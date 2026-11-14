@@ -1,5 +1,7 @@
 # One-Pan Chicken with Buttered Noodles
 
+<img width="600" src="images/one-pan-chicken-with-buttered-noodles.jpg" alt="One-Pan Chicken with Buttered Noodles">
+
 ## Ingredients
 
 - 6 boneless, skinless chicken thighs

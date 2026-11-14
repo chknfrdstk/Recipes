@@ -1,5 +1,7 @@
 # Bang Bang Chicken Skewers
 
+<img width="600" src="images/bang-bang-chicken-skewers.jpg" alt="Bang Bang Chicken Skewers">
+
 ## Ingredients
 
 - Wooden skewers, soaked in water for 30 minutes

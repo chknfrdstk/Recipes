@@ -1,5 +1,7 @@
 # Chinese Style Hot and Sour soup
 
+<img width="600" src="images/chinese-style-hot-and-sour-soup.jpg" alt="Chinese Style Hot and Sour soup">
+
 ## Ingredients
 
 - 2 eggs beaten in a small bowl

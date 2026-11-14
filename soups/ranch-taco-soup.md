@@ -1,5 +1,7 @@
 # Ranch Taco Soup
 
+<img width="600" src="images/ranch-taco-soup.jpg" alt="Ranch Taco Soup">
+
 ## Ingredients
 
 - 1 lb ground beef

@@ -1,5 +1,7 @@
 # Herbed Chicken and Mushrooms
 
+<img width="600" src="images/herbed-chicken-and-mushrooms.jpg" alt="Herbed Chicken and Mushrooms">
+
 ## Ingredients
 
 - 8 bone-in, skin-on chicken thighs

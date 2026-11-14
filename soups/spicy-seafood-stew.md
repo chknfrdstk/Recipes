@@ -1,5 +1,7 @@
 # Spicy Seafood Stew
 
+<img width="600" src="images/spicy-seafood-stew.jpg" alt="Spicy Seafood Stew">
+
 ## Ingredients
 
 - 1 lb mixed seafood (shrimp, scallops, and squid)

@@ -1,5 +1,7 @@
 # Cheesy Smoked Sausage and Cabbage Casserole
 
+<img width="600" src="images/cheesy-smoked-sausage-and-cabbage-casserole.jpg" alt="Cheesy Smoked Sausage and Cabbage Casserole">
+
 ## Ingredients
 
 - 2 tbsp olive oil

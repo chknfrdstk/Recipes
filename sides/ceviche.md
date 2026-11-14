@@ -1,5 +1,7 @@
 # Ceviche
 
+<img width="600" src="images/ceviche.jpg" alt="Ceviche">
+
 ## Ingredients
 
 - 1 lb fish (cod, snapper, halibut) diced

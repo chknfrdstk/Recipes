@@ -1,5 +1,7 @@
 # Caldo de Pollo
 
+<img width="600" src="images/caldo-de-pollo.jpg" alt="Caldo de Pollo">
+
 ## Ingredients
 
 - 8 Chicken thighs, skin on and bone in

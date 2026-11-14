@@ -1,5 +1,7 @@
 # Peruvian chicken & rice with zesty green sauce
 
+<img width="600" src="images/peruvian-chicken-and-rice-with-zesty-green-sauce.jpg" alt="Peruvian chicken & rice with zesty green sauce">
+
 ## Ingredients
 
 ### For the chicken

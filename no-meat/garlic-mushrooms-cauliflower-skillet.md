@@ -1,5 +1,7 @@
 # Garlic Mushrooms Cauliflower Skillet
 
+<img width="600" src="images/garlic-mushrooms-cauliflower-skillet.jpg" alt="Garlic Mushrooms Cauliflower Skillet">
+
 ## Ingredients
 
 - 4 tbsp unsalted butter (or ghee)

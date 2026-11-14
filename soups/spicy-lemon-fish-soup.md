@@ -1,5 +1,7 @@
 # Spicy Lemon Fish Soup
 
+<img width="600" src="images/spicy-lemon-fish-soup.jpg" alt="Spicy Lemon Fish Soup">
+
 ## Ingredients
 
 ### For the Soup Base

@@ -1,5 +1,7 @@
 # Cilantro Lime Avacodo Salsa
 
+<img width="600" src="images/cilantro-lime-avacodo-salsa.jpg" alt="Cilantro Lime Avacodo Salsa">
+
 ## Ingredients
 
 - 6 tomatillos

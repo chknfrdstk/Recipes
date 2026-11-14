@@ -1,5 +1,7 @@
 # Dumpling Sauce
 
+<img width="600" src="images/dumpling-sauce.jpg" alt="Dumpling Sauce">
+
 ## Ingredients
 
 - 3 tbsps soy sauce

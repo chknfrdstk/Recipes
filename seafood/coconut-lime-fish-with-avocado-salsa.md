@@ -1,5 +1,7 @@
 # Coconut Lime Fish with Avocado Salsa
 
+<img width="600" src="images/coconut-lime-fish-with-avocado-salsa.jpg" alt="Coconut Lime Fish with Avocado Salsa">
+
 ## Ingredients
 
 ### For the Coconut Lime Fish

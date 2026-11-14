@@ -1,5 +1,7 @@
 # Potsticker Soup with Mushrooms & Bok Choy
 
+<img width="600" src="images/potsticker-soup-with-mushrooms-and-bok-choy.jpg" alt="Potsticker Soup with Mushrooms & Bok Choy">
+
 ## Ingredients
 
 - 1 package of frozen potstickers

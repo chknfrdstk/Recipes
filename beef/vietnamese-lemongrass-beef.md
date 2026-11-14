@@ -1,5 +1,7 @@
 # Vietnamese Lemongrass Beef
 
+<img width="600" src="images/vietnamese-lemongrass-beef.jpg" alt="Vietnamese Lemongrass Beef">
+
 ## Ingredients
 
 - 1 lb ground beef (or pork/chicken)

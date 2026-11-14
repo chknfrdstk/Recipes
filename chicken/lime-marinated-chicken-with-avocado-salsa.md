@@ -1,5 +1,7 @@
 # Lime-Marinated Chicken with Avocado Salsa
 
+<img width="600" src="images/lime-marinated-chicken-with-avocado-salsa.jpg" alt="Lime-Marinated Chicken with Avocado Salsa">
+
 ## Ingredients
 
 - 6 boneless, skinless chicken thighs

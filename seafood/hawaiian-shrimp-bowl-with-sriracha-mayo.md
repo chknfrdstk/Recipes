@@ -1,5 +1,7 @@
 # Hawaiian Shrimp Bowl with Sriracha Mayo
 
+<img width="600" src="images/hawaiian-shrimp-bowl-with-sriracha-mayo.jpg" alt="Hawaiian Shrimp Bowl with Sriracha Mayo">
+
 ## Ingredients
 
 ### For the Shrimp

@@ -1,5 +1,7 @@
 # Barbacoa Beef Tacos
 
+<img width="600" src="images/barbacoa-beef-tacos.jpg" alt="Barbacoa Beef Tacos">
+
 ## Ingredients
 
 - 3 Ibs beef chuck roast or brisket

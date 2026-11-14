@@ -1,5 +1,7 @@
 # Thai Peanut Shrimp Rice Bowl
 
+<img width="600" src="images/thai-peanut-shrimp-rice-bowl.jpg" alt="Thai Peanut Shrimp Rice Bowl">
+
 ## Ingredients
 
 ### For the Shrimp

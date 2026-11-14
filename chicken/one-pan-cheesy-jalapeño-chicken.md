@@ -1,5 +1,7 @@
 # One Pan Cheesy Jalapeño Chicken
 
+<img width="600" src="images/one-pan-cheesy-jalapeño-chicken.jpg" alt="One Pan Cheesy Jalapeño Chicken">
+
 ## Ingredients
 
 - 2 lb boneless skinless chicken thighs

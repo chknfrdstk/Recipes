@@ -1,5 +1,7 @@
 # Sausage Tortellini Soup
 
+<img width="600" src="images/sausage-tortellini-soup.jpg" alt="Sausage Tortellini Soup">
+
 ## Ingredients
 
 - 1 lb Italian sausage

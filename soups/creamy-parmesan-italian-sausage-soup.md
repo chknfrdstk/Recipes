@@ -1,5 +1,7 @@
 # Creamy Parmesan Italian Sausage Soup
 
+<img width="600" src="images/creamy-parmesan-italian-sausage-soup.jpg" alt="Creamy Parmesan Italian Sausage Soup">
+
 ## Ingredients
 
 - 1 lb Italian sausage, casing removed

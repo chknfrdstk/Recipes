@@ -1,5 +1,7 @@
 # Cabbage, Sausage and Potato Soup
 
+<img width="600" src="images/cabbage-sausage-and-potato-soup.jpg" alt="Cabbage, Sausage and Potato Soup">
+
 ## Ingredients
 
 - 1 pound kielbasa sausage sliced into bite-sized pieces

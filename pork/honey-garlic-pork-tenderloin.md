@@ -1,5 +1,7 @@
 # Honey Garlic Pork Tenderloin
 
+<img width="600" src="images/honey-garlic-pork-tenderloin.jpg" alt="Honey Garlic Pork Tenderloin">
+
 ## Ingredients
 
 - 1 lb pork tenderloin

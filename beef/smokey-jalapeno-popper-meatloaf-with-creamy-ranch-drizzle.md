@@ -1,5 +1,7 @@
 # Smokey Jalapeño  Popper Meatloaf with Creamy Ranch Drizzle
 
+<img width="600" src="images/smokey-jalapeño-popper-meatloaf-with-creamy-ranch-drizzle.jpg" alt="Smokey Jalapeño Popper Meatloaf with Creamy Ranch Drizzle">
+
 ## Ingredients
 
 - 2 lbs lean ground beef

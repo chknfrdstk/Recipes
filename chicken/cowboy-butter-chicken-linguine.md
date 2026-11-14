@@ -1,5 +1,7 @@
 # Cowboy Butter Chicken Linguine
 
+<img width="600" src="images/cowboy-butter-chicken-linguine.jpg" alt="Cowboy Butter Chicken Linguine">
+
 ## Ingredients
 
 - 8 oz linguine

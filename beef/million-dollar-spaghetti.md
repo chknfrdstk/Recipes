@@ -1,5 +1,7 @@
 # Million Dollar Spaghetti
 
+<img width="600" src="images/million-dollar-spaghetti.jpg" alt="Million Dollar Spaghetti">
+
 ## Ingredients
 
 - 16 oz spaghetti noodles

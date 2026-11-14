@@ -1,5 +1,7 @@
 # Teriyaki Salmon Bowls with Crispy Brussels Sprouts
 
+<img width="600" src="images/teriyaki-salmon-bowls-with-crispy-brussels-sprouts.jpg" alt="Teriyaki Salmon Bowls with Crispy Brussels Sprouts">
+
 ## Ingredients
 
 ### For the Salmon

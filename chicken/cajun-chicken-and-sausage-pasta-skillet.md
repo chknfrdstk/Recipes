@@ -1,5 +1,7 @@
 # Cajun Chicken and Sausage Pasta Skillet
 
+<img width="600" src="images/cajun-chicken-and-sausage-pasta-skillet.jpg" alt="Cajun Chicken and Sausage Pasta Skillet">
+
 ## Ingredients
 
 - 12 oz penne pasta

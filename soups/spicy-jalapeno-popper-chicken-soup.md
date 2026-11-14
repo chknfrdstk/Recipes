@@ -1,5 +1,7 @@
 # Spicy Jalapeño Popper Chicken Soup
 
+<img width="600" src="images/spicy-jalapeño-popper-chicken-soup.jpg" alt="Spicy Jalapeño Popper Chicken Soup">
+
 ## Ingredients
 
 - 2.5 lbs boneless skinless chicken thighs diced

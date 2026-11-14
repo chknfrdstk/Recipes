@@ -1,5 +1,7 @@
 # Pad Thai Noodles
 
+<img width="600" src="images/pad-thai-noodles.jpg" alt="Pad Thai Noodles">
+
 ## Ingredients
 
 - 8 oz rice noodles

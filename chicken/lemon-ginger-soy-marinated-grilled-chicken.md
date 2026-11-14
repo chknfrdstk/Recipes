@@ -1,5 +1,7 @@
 # Lemon Ginger Soy Marinated Grilled Chicken
 
+<img width="600" src="images/lemon-ginger-soy-marinated-grilled-chicken.jpg" alt="Lemon Ginger Soy Marinated Grilled Chicken">
+
 ## Ingredients
 
 - 1 ½ lbs chicken thighs

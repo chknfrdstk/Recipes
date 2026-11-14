@@ -1,5 +1,7 @@
 # Baked Spinach Mushroom Quesadillas
 
+<img width="600" src="images/baked-spinach-mushroom-quesadillas.jpg" alt="Baked Spinach Mushroom Quesadillas">
+
 ## Ingredients
 
 - 4 tortillas (8 inch)

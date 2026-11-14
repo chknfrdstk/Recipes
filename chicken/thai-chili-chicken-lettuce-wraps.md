@@ -1,5 +1,7 @@
 # Thai Chili Chicken Lettuce Wraps
 
+<img width="600" src="images/thai-chili-chicken-lettuce-wraps.jpg" alt="Thai Chili Chicken Lettuce Wraps">
+
 ## Ingredients
 
 - 1 lb ground chicken

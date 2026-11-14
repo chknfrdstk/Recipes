@@ -1,5 +1,7 @@
 # Garlic Parmesan Chicken and Roasted Brussels Sprouts with Aioli Dipping Sauce
 
+<img width="600" src="images/garlic-parmesan-chicken-and-roasted-brussels-sprouts-with-aioli-dipping-sauce.jpg" alt="Garlic Parmesan Chicken and Roasted Brussels Sprouts with Aioli Dipping Sauce">
+
 ## Ingredients
 
 ### For the Chicken

@@ -1,5 +1,7 @@
 # Fiery Shrimp Fajita Bowl with Cilantro Lime Crema
 
+<img width="600" src="images/fiery-shrimp-fajita-bowl-with-cilantro-lime-crema.jpg" alt="Fiery Shrimp Fajita Bowl with Cilantro Lime Crema">
+
 ## Ingredients
 
 - 1 lb large shrimp, peeled and deveined

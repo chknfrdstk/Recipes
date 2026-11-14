@@ -1,5 +1,7 @@
 # Creamy Parmesan Mushroom and Spinach Tortellini Soup
 
+<img width="600" src="images/creamy-parmesan-mushroom-and-spinach-tortellini-soup.jpg" alt="Creamy Parmesan Mushroom and Spinach Tortellini Soup">
+
 ## Ingredients
 
 - 1 tbsp olive oil

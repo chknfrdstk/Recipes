@@ -1,5 +1,7 @@
 # Beijing Beef
 
+<img width="600" src="images/beijing-beef.jpg" alt="Beijing Beef">
+
 ## Ingredients
 
 - 1 lb flank steak, thinly sliced against the grain
