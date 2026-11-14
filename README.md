@@ -6,6 +6,12 @@ Personal recipes, in Markdown — organised by protein, with photos committed in
 
 ## Changelog
 
+### November 14, 2026 — Bulk import from Apple Notes, folder expansion (branch `expand-recipe-folders`, not yet merged)
+
+- **Bulk import from Apple Notes complete** — 169 recipe notes counted (Beef 23, Chicken 59, Pork 8, Seafood 14, Soup 42, Sides 2, Sauce 11, Deserts 3, No Meat 7) and converted to 167 new `.md` files, read in full directly from Apple Notes on the MacBook Air. 2 duplicates skipped (a second Philly Cheesesteak Pasta, and Crawfish Étouffée, already in the repo). 14 notes initially had no readable text; opening them in Apple Notes fixed all 14.
+- **Folder expansion** — added `beef/`, `pork/`, `sides/`, `sauce/`, `no-meat/`, `desserts/` alongside `chicken/`, `seafood/`, `soups/` (Notes "Soup" maps to `soups/`, Notes "Deserts" maps to `desserts/`). Repo now has 171 recipe files total.
+- **Counts by folder** — Beef 22, Chicken 61, Pork 8, Seafood 14, Soups 43, Sides 2, Sauce 11, Desserts 3, No Meat 7.
+
 ### November 10, 2026 — Photos, reorganisation, and two more recipes (both merged)
 
 - **Crawfish Étouffée photo added** — `images/crawfish-etouffee.jpg` on branch `add-etouffee-photo`, merged. Matthew confirmed: "Looks good".
@@ -29,6 +35,8 @@ timeline
                : Chicken Orzo merged (8c933e6)
                : Mushroom Soup merged (4ea76c5)
                : Chicken Salad merged (e4ff3b1)
+    2026-11-14 : Bulk import from Apple Notes (167 new files)
+               : Folders expanded to 9 categories
 ```
 
 ```mermaid
@@ -54,6 +62,9 @@ gitGraph
     commit id: "e4ff3b1"
     checkout main
     merge add-rotisserie-chicken-salad
+    branch expand-recipe-folders
+    checkout expand-recipe-folders
+    commit id: "bulk-import"
 ```
 
 > All branches in this repo are short-lived and merged — mushroom soup and rotisserie salad are both on main, confirmed from `git log` on 2026-11-12.
@@ -64,18 +75,45 @@ gitGraph
 
 Recipes are organised by protein. Recipe images are committed in the repo with a relative path, so Forgejo renders them.
 
-### Chicken
+### Beef (22)
+
+- [Beef](beef/) — 22 recipes, imported from Apple Notes 2026-11-14.
+
+### Chicken (61)
 
 - [Broccoli Cheddar Chicken Orzo](chicken/broccoli-cheddar-chicken-orzo.md) — with photo. No servings count was given in the source — none is claimed here.
 - [Rotisserie Chicken Salad](chicken/rotisserie-chicken-salad.md) — 5 servings. Shred the chicken first, then simply mix everything together. With photo.
+- [Chicken](chicken/) — 59 more recipes, imported from Apple Notes 2026-11-14.
 
-### Seafood
+### Pork (8)
+
+- [Pork](pork/) — 8 recipes, imported from Apple Notes 2026-11-14.
+
+### Seafood (14)
 
 - [Crawfish Étouffée](seafood/crawfish-etouffee.md) — 4 servings, with photo.
+- [Seafood](seafood/) — 13 more recipes, imported from Apple Notes 2026-11-14.
 
-### Soups
+### Soups (43)
 
 - [Hungarian Mushroom Soup](soups/hungarian-mushroom-soup.md) — with photo.
+- [Soups](soups/) — 42 more recipes, imported from Apple Notes 2026-11-14.
+
+### Sides (2)
+
+- [Sides](sides/) — 2 recipes, imported from Apple Notes 2026-11-14.
+
+### Sauce (11)
+
+- [Sauce](sauce/) — 11 recipes, imported from Apple Notes 2026-11-14.
+
+### No Meat (7)
+
+- [No Meat](no-meat/) — 7 recipes, imported from Apple Notes 2026-11-14.
+
+### Desserts (3)
+
+- [Desserts](desserts/) — 3 recipes, imported from Apple Notes 2026-11-14.
 
 ---
 
