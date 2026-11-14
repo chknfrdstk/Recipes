@@ -1,5 +1,7 @@
 # Easy Ginger Soy Cod
 
+<img width="600" src="images/easy-ginger-soy-cod.jpg" alt="Easy Ginger Soy Cod">
+
 ## Ingredients
 
 - 4 cod fillets (about 5-6 oz each)
