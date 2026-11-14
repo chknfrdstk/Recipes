@@ -1,5 +1,7 @@
 # Southwest Chicken Cutlet Rice Bowl
 
+<img width="600" src="images/southwest-chicken-cutlet-rice-bowl.jpg" alt="Southwest Chicken Cutlet Rice Bowl">
+
 ## Ingredients
 
 ### For the Chicken Cutlets

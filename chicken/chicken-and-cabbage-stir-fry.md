@@ -1,5 +1,7 @@
 # Chicken and Cabbage Stir-fry
 
+<img width="600" src="images/chicken-and-cabbage-stir-fry.jpg" alt="Chicken and Cabbage Stir-fry">
+
 ## Ingredients
 
 - 1 lb boneless skinless chicken thighs, sliced into thin strips

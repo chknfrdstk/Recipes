@@ -1,5 +1,7 @@
 # Chinese Beef and Mushroom Stir Fry
 
+<img width="600" src="images/chinese-beef-and-mushroom-stir-fry.jpg" alt="Chinese Beef and Mushroom Stir Fry">
+
 ## Ingredients
 
 - 1 lb flank steak or skirt steak

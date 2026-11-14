@@ -1,5 +1,7 @@
 # Chicken Shawarma with Creamy Garlic Sauce
 
+<img width="600" src="images/chicken-shawarma-with-creamy-garlic-sauce.jpg" alt="Chicken Shawarma with Creamy Garlic Sauce">
+
 ## Ingredients
 
 ### For the Chicken

@@ -1,5 +1,7 @@
 # Chicken Fajita Soup
 
+<img width="600" src="images/chicken-fajita-soup.jpg" alt="Chicken Fajita Soup">
+
 ## Ingredients
 
 - 1 lb boneless, skinless chicken thighs, diced

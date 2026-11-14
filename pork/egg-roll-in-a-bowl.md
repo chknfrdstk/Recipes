@@ -1,5 +1,7 @@
 # Egg Roll in a Bowl
 
+<img width="600" src="images/egg-roll-in-a-bowl.jpg" alt="Egg Roll in a Bowl">
+
 ## Ingredients
 
 - 2 tbsp toasted sesame oil

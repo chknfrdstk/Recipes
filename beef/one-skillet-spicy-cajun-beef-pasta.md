@@ -1,5 +1,7 @@
 # One-Skillet Spicy Cajun Beef Pasta
 
+<img width="600" src="images/one-skillet-spicy-cajun-beef-pasta.jpg" alt="One-Skillet Spicy Cajun Beef Pasta">
+
 ## Ingredients
 
 - 1 lb ground beef

@@ -1,5 +1,7 @@
 # Honey Garlic Shrimp, Sausage & Broccoli
 
+<img width="600" src="images/honey-garlic-shrimp-sausage-and-broccoli.jpg" alt="Honey Garlic Shrimp, Sausage & Broccoli">
+
 ## Ingredients
 
 - 1 lb large shrimp peeled and deveined

@@ -1,5 +1,7 @@
 # Mexican Corn Chicken Soup
 
+<img width="600" src="images/mexican-corn-chicken-soup.jpg" alt="Mexican Corn Chicken Soup">
+
 ## Ingredients
 
 - 1 lb boneless skinless chicken thighs

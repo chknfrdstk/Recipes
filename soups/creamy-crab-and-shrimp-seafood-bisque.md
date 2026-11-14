@@ -1,5 +1,7 @@
 # Creamy Crab and Shrimp Seafood Bisque
 
+<img width="600" src="images/creamy-crab-and-shrimp-seafood-bisque.jpg" alt="Creamy Crab and Shrimp Seafood Bisque">
+
 ## Ingredients
 
 ### For the Soup Base

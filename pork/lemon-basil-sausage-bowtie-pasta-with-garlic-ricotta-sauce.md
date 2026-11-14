@@ -1,5 +1,7 @@
 # Lemon Basil Sausage Bowtie Pasta with Garlic Ricotta Sauce
 
+<img width="600" src="images/lemon-basil-sausage-bowtie-pasta-with-garlic-ricotta-sauce.jpg" alt="Lemon Basil Sausage Bowtie Pasta with Garlic Ricotta Sauce">
+
 ## Ingredients
 
 ### For the Pasta and Sausage

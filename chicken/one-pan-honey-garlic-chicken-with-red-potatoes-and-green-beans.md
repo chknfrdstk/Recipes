@@ -1,5 +1,7 @@
 # One Pan Honey Garlic Chicken with Red Potatoes and Green Beans
 
+<img width="600" src="images/one-pan-honey-garlic-chicken-with-red-potatoes-and-green-beans.jpg" alt="One Pan Honey Garlic Chicken with Red Potatoes and Green Beans">
+
 ## Ingredients
 
 - 4 boneless, skinless chicken thighs

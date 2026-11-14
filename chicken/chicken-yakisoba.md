@@ -1,5 +1,7 @@
 # Chicken yakisoba
 
+<img width="600" src="images/chicken-yakisoba.jpg" alt="Chicken yakisoba">
+
 ## Ingredients
 
 - 4 chicken thighs, thinly sliced

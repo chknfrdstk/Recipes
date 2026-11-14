@@ -1,5 +1,7 @@
 # Cheesy Tuscan Chicken Bites with Sun-Dried Tomato Rotini
 
+<img width="600" src="images/cheesy-tuscan-chicken-bites-with-sun-dried-tomato-rotini.jpg" alt="Cheesy Tuscan Chicken Bites with Sun-Dried Tomato Rotini">
+
 ## Ingredients
 
 ### For the chicken

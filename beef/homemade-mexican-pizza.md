@@ -1,5 +1,7 @@
 # Homemade Mexican Pizza
 
+<img width="600" src="images/homemade-mexican-pizza.jpg" alt="Homemade Mexican Pizza">
+
 ## Ingredients
 
 - 1 lb lean ground beef

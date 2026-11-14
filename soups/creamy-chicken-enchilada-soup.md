@@ -1,5 +1,7 @@
 # Creamy Chicken Enchilada Soup
 
+<img width="600" src="images/creamy-chicken-enchilada-soup.jpg" alt="Creamy Chicken Enchilada Soup">
+
 ## Ingredients
 
 - 1 tbsp olive oil

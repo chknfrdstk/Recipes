@@ -1,5 +1,7 @@
 # Warm Taco Slaw
 
+<img width="600" src="images/warm-taco-slaw.jpg" alt="Warm Taco Slaw">
+
 ## Ingredients
 
 - 1 lb ground beef

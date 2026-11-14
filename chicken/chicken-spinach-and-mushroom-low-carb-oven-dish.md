@@ -1,5 +1,7 @@
 # Chicken Spinach and Mushroom Low Carb Oven Dish
 
+<img width="600" src="images/chicken-spinach-and-mushroom-low-carb-oven-dish.jpg" alt="Chicken Spinach and Mushroom Low Carb Oven Dish">
+
 ## Ingredients
 
 - 1 small bag fresh baby spinach

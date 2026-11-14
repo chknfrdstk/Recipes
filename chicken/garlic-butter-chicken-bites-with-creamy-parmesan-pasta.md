@@ -1,5 +1,7 @@
 # Garlic Butter Chicken Bites with Creamy Parmesan Pasta
 
+<img width="600" src="images/garlic-butter-chicken-bites-with-creamy-parmesan-pasta.jpg" alt="Garlic Butter Chicken Bites with Creamy Parmesan Pasta">
+
 ## Ingredients
 
 - 1 lb boneless skinless chicken thighs, cubed

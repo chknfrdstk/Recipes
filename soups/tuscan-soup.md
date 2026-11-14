@@ -1,5 +1,7 @@
 # Tuscan Soup
 
+<img width="600" src="images/tuscan-soup.jpg" alt="Tuscan Soup">
+
 ## Ingredients
 
 - 1 lb Italian sausage

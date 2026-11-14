@@ -1,5 +1,7 @@
 # Crock Pot Creamy Chicken Parmesan Soup
 
+<img width="600" src="images/crock-pot-creamy-chicken-parmesan-soup.jpg" alt="Crock Pot Creamy Chicken Parmesan Soup">
+
 ## Ingredients
 
 - 1 1/2 lbs boneless, skinless chicken thighs

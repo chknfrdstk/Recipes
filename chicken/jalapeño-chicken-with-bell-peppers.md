@@ -1,5 +1,7 @@
 # Jalapeño Chicken with Bell Peppers
 
+<img width="600" src="images/jalapeño-chicken-with-bell-peppers.jpg" alt="Jalapeño Chicken with Bell Peppers">
+
 ## Ingredients
 
 - 1 lb boneless, skinless chicken thighs, cut into bite-sized pieces

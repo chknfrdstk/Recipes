@@ -1,5 +1,7 @@
 # Pork Schnitzel with Dijon Gravy
 
+<img width="600" src="images/pork-schnitzel-with-dijon-gravy.jpg" alt="Pork Schnitzel with Dijon Gravy">
+
 ## Ingredients
 
 - 4 boneless pork chops

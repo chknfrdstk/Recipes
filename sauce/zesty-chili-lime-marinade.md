@@ -1,5 +1,7 @@
 # Zesty Chili Lime Marinade
 
+<img width="600" src="images/zesty-chili-lime-marinade.jpg" alt="Zesty Chili Lime Marinade">
+
 ## Ingredients
 
 - 2 pounds meat or veggies of choice

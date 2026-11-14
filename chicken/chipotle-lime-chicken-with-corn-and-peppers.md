@@ -1,5 +1,7 @@
 # Chipotle Lime Chicken with Corn & Peppers
 
+<img width="600" src="images/chipotle-lime-chicken-with-corn-and-peppers.jpg" alt="Chipotle Lime Chicken with Corn & Peppers">
+
 ## Ingredients
 
 ### For the Chicken

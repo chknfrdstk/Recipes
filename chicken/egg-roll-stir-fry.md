@@ -1,5 +1,7 @@
 # Egg Roll Stir Fry
 
+<img width="600" src="images/egg-roll-stir-fry.jpg" alt="Egg Roll Stir Fry">
+
 ## Ingredients
 
 - 1 medium onion, chopped

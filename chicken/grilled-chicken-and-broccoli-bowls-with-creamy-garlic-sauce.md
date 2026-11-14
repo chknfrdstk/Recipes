@@ -1,5 +1,7 @@
 # Grilled Chicken & Broccoli Bowls with Creamy Garlic Sauce
 
+<img width="600" src="images/grilled-chicken-and-broccoli-bowls-with-creamy-garlic-sauce.jpg" alt="Grilled Chicken & Broccoli Bowls with Creamy Garlic Sauce">
+
 ## Ingredients
 
 ### For the Chicken

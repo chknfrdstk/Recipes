@@ -1,5 +1,7 @@
 # Teriyaki Beef, Broccoli, and Mushroom Bowl with Ginger Aioli
 
+<img width="600" src="images/teriyaki-beef-broccoli-and-mushroom-bowl-with-ginger-aioli.jpg" alt="Teriyaki Beef, Broccoli, and Mushroom Bowl with Ginger Aioli">
+
 ## Ingredients
 
 ### For the Beef

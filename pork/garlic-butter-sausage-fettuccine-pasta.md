@@ -1,5 +1,7 @@
 # Garlic Butter Sausage Fettuccine Pasta
 
+<img width="600" src="images/garlic-butter-sausage-fettuccine-pasta.jpg" alt="Garlic Butter Sausage Fettuccine Pasta">
+
 ## Ingredients
 
 - 12 oz fettuccine pasta

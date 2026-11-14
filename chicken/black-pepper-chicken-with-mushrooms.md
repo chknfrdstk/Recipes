@@ -1,5 +1,7 @@
 # Black Pepper Chicken with Mushrooms
 
+<img width="600" src="images/black-pepper-chicken-with-mushrooms.jpg" alt="Black Pepper Chicken with Mushrooms">
+
 ## Ingredients
 
 - 2 boneless chicken breasts, thinly sliced

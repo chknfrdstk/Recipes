@@ -1,5 +1,7 @@
 # Ravioli with Tomatoes, Asparagus, Garlic, and Herbs
 
+<img width="600" src="images/ravioli-with-tomatoes-asparagus-garlic-and-herbs.jpg" alt="Ravioli with Tomatoes, Asparagus, Garlic, and Herbs">
+
 ## Ingredients
 
 - 1 tbsp olive oil

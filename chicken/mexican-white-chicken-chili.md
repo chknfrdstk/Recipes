@@ -1,5 +1,7 @@
 # Mexican White Chicken Chili
 
+<img width="600" src="images/mexican-white-chicken-chili.jpg" alt="Mexican White Chicken Chili">
+
 ## Ingredients
 
 - 8 boneless, skinless chicken thighs

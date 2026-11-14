@@ -1,5 +1,7 @@
 # Rotisserie Chicken Mushroom Soup
 
+<img width="600" src="images/rotisserie-chicken-mushroom-soup.jpg" alt="Rotisserie Chicken Mushroom Soup">
+
 ## Ingredients
 
 - 2-3 stalks celery, chopped

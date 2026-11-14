@@ -1,5 +1,7 @@
 # Italian Garlic Chicken Meatballs with Creamy Bowties
 
+<img width="600" src="images/italian-garlic-chicken-meatballs-with-creamy-bowties.jpg" alt="Italian Garlic Chicken Meatballs with Creamy Bowties">
+
 ## Ingredients
 
 - 8 oz bowtie pasta

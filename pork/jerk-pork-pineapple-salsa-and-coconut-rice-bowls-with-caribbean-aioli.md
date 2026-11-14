@@ -1,5 +1,7 @@
 # Jerk Pork, Pineapple Salsa, and Coconut Rice Bowls with Caribbean Aioli
 
+<img width="600" src="images/jerk-pork-pineapple-salsa-and-coconut-rice-bowls-with-caribbean-aioli.jpg" alt="Jerk Pork, Pineapple Salsa, and Coconut Rice Bowls with Caribbean Aioli">
+
 ## Ingredients
 
 ### For the Pork

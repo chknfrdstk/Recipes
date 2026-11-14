@@ -1,5 +1,7 @@
 # One-Pan Coconut-Lime Chicken
 
+<img width="600" src="images/one-pan-coconut-lime-chicken.jpg" alt="One-Pan Coconut-Lime Chicken">
+
 ## Ingredients
 
 - 6 boneless, skinless chicken thighs

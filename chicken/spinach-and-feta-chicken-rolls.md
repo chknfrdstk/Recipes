@@ -1,5 +1,7 @@
 # Spinach and Feta Chicken Rolls
 
+<img width="600" src="images/spinach-and-feta-chicken-rolls.jpg" alt="Spinach and Feta Chicken Rolls">
+
 ## Ingredients
 
 - 4 boneless, skinless chicken breasts

@@ -1,5 +1,7 @@
 # Chicken Avocado Soup
 
+<img width="600" src="images/chicken-avocado-soup.jpg" alt="Chicken Avocado Soup">
+
 ## Ingredients
 
 - 1 1/2 lbs boneless skinless chicken thighs

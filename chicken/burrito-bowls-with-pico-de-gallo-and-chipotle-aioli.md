@@ -1,5 +1,7 @@
 # Burrito Bowls with Pico de Gallo & Chipotle Aioli
 
+<img width="600" src="images/burrito-bowls-with-pico-de-gallo-and-chipotle-aioli.jpg" alt="Burrito Bowls with Pico de Gallo & Chipotle Aioli">
+
 ## Ingredients
 
 ### For the protein

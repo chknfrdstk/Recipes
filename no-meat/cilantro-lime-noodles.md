@@ -1,5 +1,7 @@
 # Cilantro Lime Noodles
 
+<img width="600" src="images/cilantro-lime-noodles.jpg" alt="Cilantro Lime Noodles">
+
 ## Ingredients
 
 - 8 oz rice noodles (or your favorite noodles)

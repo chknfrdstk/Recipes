@@ -1,5 +1,7 @@
 # Coconut Lime Fish Curry with Jasmine Rice
 
+<img width="600" src="images/coconut-lime-fish-curry-with-jasmine-rice.jpg" alt="Coconut Lime Fish Curry with Jasmine Rice">
+
 ## Ingredients
 
 - 1 Ib white fish fillets (cod or tilapia), cut into chunks

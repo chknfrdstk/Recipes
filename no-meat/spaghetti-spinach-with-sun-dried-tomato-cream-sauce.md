@@ -1,5 +1,7 @@
 # Spaghetti & Spinach with Sun-Dried Tomato Cream Sauce
 
+<img width="600" src="images/spaghetti-and-spinach-with-sun-dried-tomato-cream-sauce.jpg" alt="Spaghetti & Spinach with Sun-Dried Tomato Cream Sauce">
+
 ## Ingredients
 
 - 5 oz baby spinach, coarsely chopped

@@ -1,5 +1,7 @@
 # Smothered Chicken and Rice
 
+<img width="600" src="images/smothered-chicken-and-rice.jpg" alt="Smothered Chicken and Rice">
+
 ## Ingredients
 
 - 8 boneless, skinless chicken thighs, cut into chunks

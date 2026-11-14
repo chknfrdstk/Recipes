@@ -1,5 +1,7 @@
 # Coconut Chicken Rice Bowl
 
+<img width="600" src="images/coconut-chicken-rice-bowl.jpg" alt="Coconut Chicken Rice Bowl">
+
 ## Ingredients
 
 - 1 ½ Ibs boneless skinless chicken thighs, diced

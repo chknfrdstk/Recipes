@@ -1,5 +1,7 @@
 # Stuffed Cabbage Rolls With Ground Beef and Rice
 
+<img width="600" src="images/stuffed-cabbage-rolls-with-ground-beef-and-rice.jpg" alt="Stuffed Cabbage Rolls With Ground Beef and Rice">
+
 ## Ingredients
 
 - 1 head green cabbage, about 1 dozen large cabbage leaves

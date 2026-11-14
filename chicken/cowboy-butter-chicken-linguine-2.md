@@ -1,5 +1,7 @@
 # Cowboy Butter Chicken Linguine
 
+<img width="600" src="images/cowboy-butter-chicken-linguine-2.jpg" alt="Cowboy Butter Chicken Linguine">
+
 ## Ingredients
 
 - 6 boneless, skinless chicken thighs, cut into cubes

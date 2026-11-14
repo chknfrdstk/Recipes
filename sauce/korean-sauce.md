@@ -1,5 +1,7 @@
 # Korean Sauce
 
+<img width="600" src="images/korean-sauce.jpg" alt="Korean Sauce">
+
 ## Ingredients
 
 - I tbsp rice vinegar

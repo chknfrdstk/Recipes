@@ -1,5 +1,7 @@
 # Greek Chicken Gyros
 
+<img width="600" src="images/greek-chicken-gyros.jpg" alt="Greek Chicken Gyros">
+
 ## Ingredients
 
 ### For the marinade

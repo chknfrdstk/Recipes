@@ -1,5 +1,7 @@
 # Spicy Garlic Parmesan Grilled Shrimp with Lemon-Herb Aioli
 
+<img width="600" src="images/spicy-garlic-parmesan-grilled-shrimp-with-lemon-herb-aioli.jpg" alt="Spicy Garlic Parmesan Grilled Shrimp with Lemon-Herb Aioli">
+
 ## Ingredients
 
 ### For the Shrimp

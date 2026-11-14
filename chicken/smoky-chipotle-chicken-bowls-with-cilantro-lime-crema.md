@@ -1,5 +1,7 @@
 # Smoky Chipotle Chicken Bowls with Cilantro Lime Crema
 
+<img width="600" src="images/smoky-chipotle-chicken-bowls-with-cilantro-lime-crema.jpg" alt="Smoky Chipotle Chicken Bowls with Cilantro Lime Crema">
+
 ## Ingredients
 
 ### For the Chicken

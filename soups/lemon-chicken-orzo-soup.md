@@ -1,5 +1,7 @@
 # Lemon Chicken Orzo Soup
 
+<img width="600" src="images/lemon-chicken-orzo-soup.jpg" alt="Lemon Chicken Orzo Soup">
+
 ## Ingredients
 
 - 2 tbsp olive oil

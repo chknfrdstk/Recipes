@@ -1,5 +1,7 @@
 # Tom Kha Gai Soup
 
+<img width="600" src="images/tom-kha-gai-soup.jpg" alt="Tom Kha Gai Soup">
+
 ## Ingredients
 
 - 3 cups chicken broth

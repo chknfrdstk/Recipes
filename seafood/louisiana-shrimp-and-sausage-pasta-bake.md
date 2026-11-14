@@ -1,5 +1,7 @@
 # Louisiana Shrimp and Sausage Pasta Bake
 
+<img width="600" src="images/louisiana-shrimp-and-sausage-pasta-bake.jpg" alt="Louisiana Shrimp and Sausage Pasta Bake">
+
 ## Ingredients
 
 - 12 oz penne pasta

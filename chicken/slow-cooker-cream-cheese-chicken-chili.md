@@ -1,5 +1,7 @@
 # Slow Cooker Cream Cheese Chicken Chili
 
+<img width="600" src="images/slow-cooker-cream-cheese-chicken-chili.jpg" alt="Slow Cooker Cream Cheese Chicken Chili">
+
 ## Ingredients
 
 - 3 lbs boneless skinless chicken thighs

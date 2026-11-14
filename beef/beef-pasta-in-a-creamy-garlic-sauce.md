@@ -1,5 +1,7 @@
 # Beef Pasta in a Creamy Garlic Sauce
 
+<img width="600" src="images/beef-pasta-in-a-creamy-garlic-sauce.jpg" alt="Beef Pasta in a Creamy Garlic Sauce">
+
 ## Ingredients
 
 - 8 oz medium pasta shells
