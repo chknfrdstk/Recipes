@@ -3,5 +3,5 @@
 # Every push to main rebuilds the site automatically.
 title: Recipes
 description: Recipe collection
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 markdown: kramdown

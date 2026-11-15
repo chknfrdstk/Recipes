@@ -8,7 +8,8 @@ Personal recipes, in Markdown — organised by protein, with photos committed in
 
 ### November 14, 2026 — GitHub Pages enabled
 
-- **GitHub Pages** — Jekyll, Cayman theme, deploy from `main` / (root), via `_config.yml`. Site: https://chknfrdstk.github.io/Recipes/
+- **GitHub Pages** — Jekyll, deploy from `main` / (root), via `_config.yml`. Site: https://chknfrdstk.github.io/Recipes/
+- **Theme switched to Slate (dark)** — later on Nov 14, from Cayman to `jekyll-theme-slate`.
 - **Repeatable setup** — every push to main rebuilds the site automatically. Same setup as the Conferences repo.
 
 ### November 14, 2026 — Recipe photos added (merged into main)
