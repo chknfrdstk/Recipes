@@ -2,66 +2,68 @@
 
 61 recipes.
 
-- [Asparagus and Chicken Fricassee](asparagus-and-chicken-fricassee.md)
-- [Bang Bang Chicken Skewers](bang-bang-chicken-skewers.md)
-- [Black Pepper Chicken with Mushrooms](black-pepper-chicken-with-mushrooms.md)
-- [Black Pepper Chicken with Mushrooms](black-pepper-chicken-with-mushrooms-2.md)
-- [Broccoli Cheddar Chicken Orzo](broccoli-cheddar-chicken-orzo.md)
-- [Burrito Bowls with Pico de Gallo & Chipotle Aioli](burrito-bowls-with-pico-de-gallo-and-chipotle-aioli.md)
-- [Cajun Chicken and Sausage Pasta Skillet](cajun-chicken-and-sausage-pasta-skillet.md)
-- [Cajun Chicken Pasta](cajun-chicken-pasta.md)
-- [Caribbean Chicken and Rice](caribbean-chicken-and-rice.md)
-- [Cheesy Salsa Verde Chicken Casserole](cheesy-salsa-verde-chicken-casserole.md)
-- [Cheesy Tuscan Chicken Bites with Sun-Dried Tomato Rotini](cheesy-tuscan-chicken-bites-with-sun-dried-tomato-rotini.md)
-- [Chicken and Cabbage Stir-fry](chicken-and-cabbage-stir-fry.md)
-- [Chicken Bacon and Pasta with Spinach and Tomatoes in Garlic Cream Sauce](chicken-bacon-and-pasta-with-spinach-and-tomatoes-in-garlic-cream-sauce.md)
-- [Chicken Mushroom Stroganoff](chicken-mushroom-stroganoff.md)
-- [Chicken Shawarma with Creamy Garlic Sauce](chicken-shawarma-with-creamy-garlic-sauce.md)
-- [Chicken Shyte](chicken-shyte.md)
-- [Chicken Spinach and Mushroom Low Carb Oven Dish](chicken-spinach-and-mushroom-low-carb-oven-dish.md)
-- [Chicken yakisoba](chicken-yakisoba.md)
-- [Chipotle Chicken Burrito Rice Bowl](chipotle-chicken-burrito-rice-bowl.md)
-- [Chipotle Lime Chicken with Corn & Peppers](chipotle-lime-chicken-with-corn-and-peppers.md)
-- [Coconut Chicken Rice Bowl](coconut-chicken-rice-bowl.md)
-- [Coconut Curry Chicken with Lemongrass](coconut-curry-chicken-with-lemongrass.md)
-- [Coconut Curry Chicken with Rice Noodles](coconut-curry-chicken-with-rice-noodles.md)
-- [Cowboy Butter Chicken Linguine](cowboy-butter-chicken-linguine.md)
-- [Cowboy Butter Chicken Linguine](cowboy-butter-chicken-linguine-2.md)
-- [Creamy Chicken and Mushroom](creamy-chicken-and-mushroom.md)
-- [Egg Roll Stir Fry](egg-roll-stir-fry.md)
-- [Filipino Pancit](filipino-pancit.md)
-- [Garlic Butter Chicken and Parmesan Rice](garlic-butter-chicken-and-parmesan-rice.md)
-- [Garlic Butter Chicken Bites with Creamy Parmesan Pasta](garlic-butter-chicken-bites-with-creamy-parmesan-pasta.md)
-- [Garlic Chicken with Broccoli and Spinich](garlic-chicken-with-broccoli-and-spinich.md)
-- [Garlic Parmesan Chicken and Roasted Brussels Sprouts with Aioli Dipping Sauce](garlic-parmesan-chicken-and-roasted-brussels-sprouts-with-aioli-dipping-sauce.md)
-- [Garlic Roast Chicken with Rosemary and Lemon](garlic-roast-chicken-with-rosemary-and-lemon.md)
-- [Greek Chicken Gyros](greek-chicken-gyros.md)
-- [Grilled Chicken & Broccoli Bowls with Creamy Garlic Sauce](grilled-chicken-and-broccoli-bowls-with-creamy-garlic-sauce.md)
-- [Herbed Chicken and Mushrooms](herbed-chicken-and-mushrooms.md)
-- [Italian Garlic Chicken Meatballs with Creamy Bowties](italian-garlic-chicken-meatballs-with-creamy-bowties.md)
-- [Jalapeño Chicken with Bell Peppers](jalapeño-chicken-with-bell-peppers.md)
-- [King Ranch Chicken](king-ranch-chicken.md)
-- [Lemon Garlic Chicken with Creamy Bowtie Pasta](lemon-garlic-chicken-with-creamy-bowtie-pasta.md)
-- [Lemon Ginger Soy Marinated Grilled Chicken](lemon-ginger-soy-marinated-grilled-chicken.md)
-- [Lime-Marinated Chicken with Avocado Salsa](lime-marinated-chicken-with-avocado-salsa.md)
-- [Melt in Your Mouth Chicken](melt-in-your-mouth-chicken.md)
-- [Mexican Street Corn Chicken Bowls](mexican-street-corn-chicken-bowls.md)
-- [Mexican White Chicken Chili](mexican-white-chicken-chili.md)
-- [One Pan Cheesy Jalapeño Chicken](one-pan-cheesy-jalapeño-chicken.md)
-- [One Pan Honey Garlic Chicken with Red Potatoes and Green Beans](one-pan-honey-garlic-chicken-with-red-potatoes-and-green-beans.md)
-- [One-Pan Chicken with Buttered Noodles](one-pan-chicken-with-buttered-noodles.md)
-- [One-Pan Coconut-Lime Chicken](one-pan-coconut-lime-chicken.md)
-- [Peruvian chicken & rice with zesty green sauce](peruvian-chicken-and-rice-with-zesty-green-sauce.md)
-- [Poblanos Rellenos de Pollo y Queso (Chicken & Cheese Stuffed Poblanos)](poblanos-rellenos-de-pollo-y-queso-chicken-and-cheese-stuffed-poblanos.md)
-- [Rotisserie Chicken Salad](rotisserie-chicken-salad.md)
-- [Slow Cooker Cream Cheese Chicken](slow-cooker-cream-cheese-chicken.md)
-- [Slow Cooker Cream Cheese Chicken Chili](slow-cooker-cream-cheese-chicken-chili.md)
-- [Smoky Chipotle Chicken Bowls with Cilantro Lime Crema](smoky-chipotle-chicken-bowls-with-cilantro-lime-crema.md)
-- [Smothered Chicken and Rice](smothered-chicken-and-rice.md)
-- [Southwest Chicken Cutlet Rice Bowl](southwest-chicken-cutlet-rice-bowl.md)
-- [Spiced Coconut Basil Chicken with Rice](spiced-coconut-basil-chicken-with-rice.md)
-- [Spinach and Feta Chicken Rolls](spinach-and-feta-chicken-rolls.md)
-- [Street Corn Chicken Rice Bowl](street-corn-chicken-rice-bowl.md)
-- [Thai Chili Chicken Lettuce Wraps](thai-chili-chicken-lettuce-wraps.md)
+<div class="recipe-grid">
+<div class="recipe-card no-photo"><a href="asparagus-and-chicken-fricassee.md"><span class="recipe-title">Asparagus and Chicken Fricassee</span></a></div>
+<div class="recipe-card"><a href="bang-bang-chicken-skewers.md"><img src="images/bang-bang-chicken-skewers.jpg" alt="Bang Bang Chicken Skewers"><span class="recipe-title">Bang Bang Chicken Skewers</span></a></div>
+<div class="recipe-card"><a href="black-pepper-chicken-with-mushrooms.md"><img src="images/black-pepper-chicken-with-mushrooms.jpg" alt="Black Pepper Chicken with Mushrooms"><span class="recipe-title">Black Pepper Chicken with Mushrooms</span></a></div>
+<div class="recipe-card"><a href="black-pepper-chicken-with-mushrooms-2.md"><img src="images/black-pepper-chicken-with-mushrooms-2.jpg" alt="Black Pepper Chicken with Mushrooms"><span class="recipe-title">Black Pepper Chicken with Mushrooms</span></a></div>
+<div class="recipe-card"><a href="broccoli-cheddar-chicken-orzo.md"><img src="images/broccoli-cheddar-chicken-orzo.jpg" alt="Broccoli Cheddar Chicken Orzo"><span class="recipe-title">Broccoli Cheddar Chicken Orzo</span></a></div>
+<div class="recipe-card"><a href="burrito-bowls-with-pico-de-gallo-and-chipotle-aioli.md"><img src="images/burrito-bowls-with-pico-de-gallo-and-chipotle-aioli.jpg" alt="Burrito Bowls with Pico de Gallo & Chipotle Aioli"><span class="recipe-title">Burrito Bowls with Pico de Gallo & Chipotle Aioli</span></a></div>
+<div class="recipe-card"><a href="cajun-chicken-and-sausage-pasta-skillet.md"><img src="images/cajun-chicken-and-sausage-pasta-skillet.jpg" alt="Cajun Chicken and Sausage Pasta Skillet"><span class="recipe-title">Cajun Chicken and Sausage Pasta Skillet</span></a></div>
+<div class="recipe-card no-photo"><a href="cajun-chicken-pasta.md"><span class="recipe-title">Cajun Chicken Pasta</span></a></div>
+<div class="recipe-card no-photo"><a href="caribbean-chicken-and-rice.md"><span class="recipe-title">Caribbean Chicken and Rice</span></a></div>
+<div class="recipe-card no-photo"><a href="cheesy-salsa-verde-chicken-casserole.md"><span class="recipe-title">Cheesy Salsa Verde Chicken Casserole</span></a></div>
+<div class="recipe-card"><a href="cheesy-tuscan-chicken-bites-with-sun-dried-tomato-rotini.md"><img src="images/cheesy-tuscan-chicken-bites-with-sun-dried-tomato-rotini.jpg" alt="Cheesy Tuscan Chicken Bites with Sun-Dried Tomato Rotini"><span class="recipe-title">Cheesy Tuscan Chicken Bites with Sun-Dried Tomato Rotini</span></a></div>
+<div class="recipe-card"><a href="chicken-and-cabbage-stir-fry.md"><img src="images/chicken-and-cabbage-stir-fry.jpg" alt="Chicken and Cabbage Stir-fry"><span class="recipe-title">Chicken and Cabbage Stir-fry</span></a></div>
+<div class="recipe-card no-photo"><a href="chicken-bacon-and-pasta-with-spinach-and-tomatoes-in-garlic-cream-sauce.md"><span class="recipe-title">Chicken Bacon and Pasta with Spinach and Tomatoes in Garlic Cream Sauce</span></a></div>
+<div class="recipe-card no-photo"><a href="chicken-mushroom-stroganoff.md"><span class="recipe-title">Chicken Mushroom Stroganoff</span></a></div>
+<div class="recipe-card"><a href="chicken-shawarma-with-creamy-garlic-sauce.md"><img src="images/chicken-shawarma-with-creamy-garlic-sauce.jpg" alt="Chicken Shawarma with Creamy Garlic Sauce"><span class="recipe-title">Chicken Shawarma with Creamy Garlic Sauce</span></a></div>
+<div class="recipe-card no-photo"><a href="chicken-shyte.md"><span class="recipe-title">Chicken Shyte</span></a></div>
+<div class="recipe-card"><a href="chicken-spinach-and-mushroom-low-carb-oven-dish.md"><img src="images/chicken-spinach-and-mushroom-low-carb-oven-dish.jpg" alt="Chicken Spinach and Mushroom Low Carb Oven Dish"><span class="recipe-title">Chicken Spinach and Mushroom Low Carb Oven Dish</span></a></div>
+<div class="recipe-card"><a href="chicken-yakisoba.md"><img src="images/chicken-yakisoba.jpg" alt="Chicken yakisoba"><span class="recipe-title">Chicken yakisoba</span></a></div>
+<div class="recipe-card"><a href="chipotle-chicken-burrito-rice-bowl.md"><img src="images/chipotle-chicken-burrito-rice-bowl.jpg" alt="Chipotle Chicken Burrito Rice Bowl"><span class="recipe-title">Chipotle Chicken Burrito Rice Bowl</span></a></div>
+<div class="recipe-card"><a href="chipotle-lime-chicken-with-corn-and-peppers.md"><img src="images/chipotle-lime-chicken-with-corn-and-peppers.jpg" alt="Chipotle Lime Chicken with Corn & Peppers"><span class="recipe-title">Chipotle Lime Chicken with Corn & Peppers</span></a></div>
+<div class="recipe-card"><a href="coconut-chicken-rice-bowl.md"><img src="images/coconut-chicken-rice-bowl.jpg" alt="Coconut Chicken Rice Bowl"><span class="recipe-title">Coconut Chicken Rice Bowl</span></a></div>
+<div class="recipe-card no-photo"><a href="coconut-curry-chicken-with-lemongrass.md"><span class="recipe-title">Coconut Curry Chicken with Lemongrass</span></a></div>
+<div class="recipe-card no-photo"><a href="coconut-curry-chicken-with-rice-noodles.md"><span class="recipe-title">Coconut Curry Chicken with Rice Noodles</span></a></div>
+<div class="recipe-card"><a href="cowboy-butter-chicken-linguine.md"><img src="images/cowboy-butter-chicken-linguine.jpg" alt="Cowboy Butter Chicken Linguine"><span class="recipe-title">Cowboy Butter Chicken Linguine</span></a></div>
+<div class="recipe-card"><a href="cowboy-butter-chicken-linguine-2.md"><img src="images/cowboy-butter-chicken-linguine-2.jpg" alt="Cowboy Butter Chicken Linguine"><span class="recipe-title">Cowboy Butter Chicken Linguine</span></a></div>
+<div class="recipe-card no-photo"><a href="creamy-chicken-and-mushroom.md"><span class="recipe-title">Creamy Chicken and Mushroom</span></a></div>
+<div class="recipe-card"><a href="egg-roll-stir-fry.md"><img src="images/egg-roll-stir-fry.jpg" alt="Egg Roll Stir Fry"><span class="recipe-title">Egg Roll Stir Fry</span></a></div>
+<div class="recipe-card no-photo"><a href="filipino-pancit.md"><span class="recipe-title">Filipino Pancit</span></a></div>
+<div class="recipe-card"><a href="garlic-butter-chicken-and-parmesan-rice.md"><img src="images/garlic-butter-chicken-and-parmesan-rice.jpg" alt="Garlic Butter Chicken and Parmesan Rice"><span class="recipe-title">Garlic Butter Chicken and Parmesan Rice</span></a></div>
+<div class="recipe-card"><a href="garlic-butter-chicken-bites-with-creamy-parmesan-pasta.md"><img src="images/garlic-butter-chicken-bites-with-creamy-parmesan-pasta.jpg" alt="Garlic Butter Chicken Bites with Creamy Parmesan Pasta"><span class="recipe-title">Garlic Butter Chicken Bites with Creamy Parmesan Pasta</span></a></div>
+<div class="recipe-card no-photo"><a href="garlic-chicken-with-broccoli-and-spinich.md"><span class="recipe-title">Garlic Chicken with Broccoli and Spinich</span></a></div>
+<div class="recipe-card"><a href="garlic-parmesan-chicken-and-roasted-brussels-sprouts-with-aioli-dipping-sauce.md"><img src="images/garlic-parmesan-chicken-and-roasted-brussels-sprouts-with-aioli-dipping-sauce.jpg" alt="Garlic Parmesan Chicken and Roasted Brussels Sprouts with Aioli Dipping Sauce"><span class="recipe-title">Garlic Parmesan Chicken and Roasted Brussels Sprouts with Aioli Dipping Sauce</span></a></div>
+<div class="recipe-card no-photo"><a href="garlic-roast-chicken-with-rosemary-and-lemon.md"><span class="recipe-title">Garlic Roast Chicken with Rosemary and Lemon</span></a></div>
+<div class="recipe-card"><a href="greek-chicken-gyros.md"><img src="images/greek-chicken-gyros.jpg" alt="Greek Chicken Gyros"><span class="recipe-title">Greek Chicken Gyros</span></a></div>
+<div class="recipe-card"><a href="grilled-chicken-and-broccoli-bowls-with-creamy-garlic-sauce.md"><img src="images/grilled-chicken-and-broccoli-bowls-with-creamy-garlic-sauce.jpg" alt="Grilled Chicken & Broccoli Bowls with Creamy Garlic Sauce"><span class="recipe-title">Grilled Chicken & Broccoli Bowls with Creamy Garlic Sauce</span></a></div>
+<div class="recipe-card"><a href="herbed-chicken-and-mushrooms.md"><img src="images/herbed-chicken-and-mushrooms.jpg" alt="Herbed Chicken and Mushrooms"><span class="recipe-title">Herbed Chicken and Mushrooms</span></a></div>
+<div class="recipe-card"><a href="italian-garlic-chicken-meatballs-with-creamy-bowties.md"><img src="images/italian-garlic-chicken-meatballs-with-creamy-bowties.jpg" alt="Italian Garlic Chicken Meatballs with Creamy Bowties"><span class="recipe-title">Italian Garlic Chicken Meatballs with Creamy Bowties</span></a></div>
+<div class="recipe-card"><a href="jalapeño-chicken-with-bell-peppers.md"><img src="images/jalapeño-chicken-with-bell-peppers.jpg" alt="Jalapeño Chicken with Bell Peppers"><span class="recipe-title">Jalapeño Chicken with Bell Peppers</span></a></div>
+<div class="recipe-card no-photo"><a href="king-ranch-chicken.md"><span class="recipe-title">King Ranch Chicken</span></a></div>
+<div class="recipe-card no-photo"><a href="lemon-garlic-chicken-with-creamy-bowtie-pasta.md"><span class="recipe-title">Lemon Garlic Chicken with Creamy Bowtie Pasta</span></a></div>
+<div class="recipe-card"><a href="lemon-ginger-soy-marinated-grilled-chicken.md"><img src="images/lemon-ginger-soy-marinated-grilled-chicken.jpg" alt="Lemon Ginger Soy Marinated Grilled Chicken"><span class="recipe-title">Lemon Ginger Soy Marinated Grilled Chicken</span></a></div>
+<div class="recipe-card"><a href="lime-marinated-chicken-with-avocado-salsa.md"><img src="images/lime-marinated-chicken-with-avocado-salsa.jpg" alt="Lime-Marinated Chicken with Avocado Salsa"><span class="recipe-title">Lime-Marinated Chicken with Avocado Salsa</span></a></div>
+<div class="recipe-card no-photo"><a href="melt-in-your-mouth-chicken.md"><span class="recipe-title">Melt in Your Mouth Chicken</span></a></div>
+<div class="recipe-card no-photo"><a href="mexican-street-corn-chicken-bowls.md"><span class="recipe-title">Mexican Street Corn Chicken Bowls</span></a></div>
+<div class="recipe-card"><a href="mexican-white-chicken-chili.md"><img src="images/mexican-white-chicken-chili.jpg" alt="Mexican White Chicken Chili"><span class="recipe-title">Mexican White Chicken Chili</span></a></div>
+<div class="recipe-card"><a href="one-pan-cheesy-jalapeño-chicken.md"><img src="images/one-pan-cheesy-jalapeño-chicken.jpg" alt="One Pan Cheesy Jalapeño Chicken"><span class="recipe-title">One Pan Cheesy Jalapeño Chicken</span></a></div>
+<div class="recipe-card"><a href="one-pan-honey-garlic-chicken-with-red-potatoes-and-green-beans.md"><img src="images/one-pan-honey-garlic-chicken-with-red-potatoes-and-green-beans.jpg" alt="One Pan Honey Garlic Chicken with Red Potatoes and Green Beans"><span class="recipe-title">One Pan Honey Garlic Chicken with Red Potatoes and Green Beans</span></a></div>
+<div class="recipe-card"><a href="one-pan-chicken-with-buttered-noodles.md"><img src="images/one-pan-chicken-with-buttered-noodles.jpg" alt="One-Pan Chicken with Buttered Noodles"><span class="recipe-title">One-Pan Chicken with Buttered Noodles</span></a></div>
+<div class="recipe-card"><a href="one-pan-coconut-lime-chicken.md"><img src="images/one-pan-coconut-lime-chicken.jpg" alt="One-Pan Coconut-Lime Chicken"><span class="recipe-title">One-Pan Coconut-Lime Chicken</span></a></div>
+<div class="recipe-card"><a href="peruvian-chicken-and-rice-with-zesty-green-sauce.md"><img src="images/peruvian-chicken-and-rice-with-zesty-green-sauce.jpg" alt="Peruvian chicken & rice with zesty green sauce"><span class="recipe-title">Peruvian chicken & rice with zesty green sauce</span></a></div>
+<div class="recipe-card"><a href="poblanos-rellenos-de-pollo-y-queso-chicken-and-cheese-stuffed-poblanos.md"><img src="images/poblanos-rellenos-de-pollo-y-queso.jpg" alt="Poblanos Rellenos de Pollo y Queso (Chicken & Cheese Stuffed Poblanos)"><span class="recipe-title">Poblanos Rellenos de Pollo y Queso (Chicken & Cheese Stuffed Poblanos)</span></a></div>
+<div class="recipe-card"><a href="rotisserie-chicken-salad.md"><img src="images/rotisserie-chicken-salad.jpg" alt="Rotisserie Chicken Salad"><span class="recipe-title">Rotisserie Chicken Salad</span></a></div>
+<div class="recipe-card no-photo"><a href="slow-cooker-cream-cheese-chicken.md"><span class="recipe-title">Slow Cooker Cream Cheese Chicken</span></a></div>
+<div class="recipe-card"><a href="slow-cooker-cream-cheese-chicken-chili.md"><img src="images/slow-cooker-cream-cheese-chicken-chili.jpg" alt="Slow Cooker Cream Cheese Chicken Chili"><span class="recipe-title">Slow Cooker Cream Cheese Chicken Chili</span></a></div>
+<div class="recipe-card"><a href="smoky-chipotle-chicken-bowls-with-cilantro-lime-crema.md"><img src="images/smoky-chipotle-chicken-bowls-with-cilantro-lime-crema.jpg" alt="Smoky Chipotle Chicken Bowls with Cilantro Lime Crema"><span class="recipe-title">Smoky Chipotle Chicken Bowls with Cilantro Lime Crema</span></a></div>
+<div class="recipe-card"><a href="smothered-chicken-and-rice.md"><img src="images/smothered-chicken-and-rice.jpg" alt="Smothered Chicken and Rice"><span class="recipe-title">Smothered Chicken and Rice</span></a></div>
+<div class="recipe-card"><a href="southwest-chicken-cutlet-rice-bowl.md"><img src="images/southwest-chicken-cutlet-rice-bowl.jpg" alt="Southwest Chicken Cutlet Rice Bowl"><span class="recipe-title">Southwest Chicken Cutlet Rice Bowl</span></a></div>
+<div class="recipe-card"><a href="spiced-coconut-basil-chicken-with-rice.md"><img src="images/spiced-coconut-basil-chicken-with-rice.jpg" alt="Spiced Coconut Basil Chicken with Rice"><span class="recipe-title">Spiced Coconut Basil Chicken with Rice</span></a></div>
+<div class="recipe-card"><a href="spinach-and-feta-chicken-rolls.md"><img src="images/spinach-and-feta-chicken-rolls.jpg" alt="Spinach and Feta Chicken Rolls"><span class="recipe-title">Spinach and Feta Chicken Rolls</span></a></div>
+<div class="recipe-card no-photo"><a href="street-corn-chicken-rice-bowl.md"><span class="recipe-title">Street Corn Chicken Rice Bowl</span></a></div>
+<div class="recipe-card"><a href="thai-chili-chicken-lettuce-wraps.md"><img src="images/thai-chili-chicken-lettuce-wraps.jpg" alt="Thai Chili Chicken Lettuce Wraps"><span class="recipe-title">Thai Chili Chicken Lettuce Wraps</span></a></div>
+</div>
 
 - [Back to all recipes](../README.md)
