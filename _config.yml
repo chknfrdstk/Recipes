@@ -1,0 +1,7 @@
+# GitHub Pages settings for the Recipes repo.
+# Pages is set to deploy from the main branch, / (root).
+# Every push to main rebuilds the site automatically.
+title: Recipes
+description: Recipe collection
+theme: jekyll-theme-cayman
+markdown: kramdown

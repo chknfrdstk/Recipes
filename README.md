@@ -6,6 +6,11 @@ Personal recipes, in Markdown — organised by protein, with photos committed in
 
 ## Changelog
 
+### November 14, 2026 — GitHub Pages enabled
+
+- **GitHub Pages** — Jekyll, Cayman theme, deploy from `main` / (root), via `_config.yml`. Site: https://chknfrdstk.github.io/Recipes/
+- **Repeatable setup** — every push to main rebuilds the site automatically. Same setup as the Conferences repo.
+
 ### November 14, 2026 — Recipe photos added (merged into main)
 
 - **Photos added for 108 recipes** — pictures sent from Apple Notes, copied to each folder's `images/` and linked in the `.md` at 600px. Pork 8/8, Seafood 10/10 (incl. Easy Ginger Soy Cod, committed separately as `31db490`), Chicken 40/42, Beef 13/13, Soups 24/26, No Meat 6/6, Sauce 6/6, Sides 1/1, Desserts 0/1.
@@ -44,6 +49,7 @@ timeline
     2026-11-14 : Bulk import from Apple Notes (167 new files)
                : Folders expanded to 9 categories
                : Photos added for 108 recipes
+               : GitHub Pages enabled (Jekyll)
 ```
 
 ```mermaid
