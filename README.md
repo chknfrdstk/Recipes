@@ -12,6 +12,8 @@ Personal recipes, in Markdown — organised by protein, with photos committed in
 - **Theme switched to Midnight (dark, whole site)** — later on Nov 14, from Cayman to `jekyll-theme-midnight`. Slate was tried first, but only its header was dark.
 - **Clean Pages home page** — `index.md` (separate from this README) with a 9-card protein grid, plus the full 171-recipe lists. No changelog on the Pages site.
 - **Protein folder indexes** — each protein folder now has its own `README.md` index (Beef 22, Chicken 61, Pork 8, Seafood 14, Soups 43, Sides 2, Sauce 11, No Meat 7, Desserts 3), so clicking a protein on the Pages site opens a list instead of a 404.
+- **Photo cards on protein pages** — each recipe is a card with its photo on top and name below (112 with photos, 59 title-only). Custom CSS `assets/css/style.scss` for the recipe cards.
+- **Rendered-page links** — recipe card links now point to the rendered `.html` pages instead of the raw `.md` files, so a recipe opens themed with its photo instead of as plain white markdown. Links are absolute GitHub Pages URLs, so they work from Forgejo too (opening the rendered page on the public site) — Forgejo's raw-HTML relative links 404'd because it drops the folder from the path.
 - **Custom dark CSS** — `assets/css/style.scss` overrides Midnight: dark background, accent `#58a6ff`, card grid with hover lift. Same CSS on both sites.
 - **Repeatable setup** — every push to main rebuilds the site automatically. Same setup as the Conferences repo.
 
