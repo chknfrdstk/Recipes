@@ -4,7 +4,7 @@
 
 Servings: 5
 
-> Source: screenshot IMG_6423.PNG, 2026-11-10 — ingredients only; instructions were not in the screenshot. Photo from https://i.etsystatic.com/27488557/r/il/b577e6/7915980407/il_1588xN.7915980407_9en1.jpg
+> Source: screenshot IMG_6423.PNG, 2026-11-10 — ingredients only; instructions were not in the screenshot. Photo from [https://i.etsystatic.com/27488557/r/il/b577e6/7915980407/il_1588xN.7915980407_9en1.jpg](https://i.etsystatic.com/27488557/r/il/b577e6/7915980407/il_1588xN.7915980407_9en1.jpg)
 
 ## Ingredients
 
