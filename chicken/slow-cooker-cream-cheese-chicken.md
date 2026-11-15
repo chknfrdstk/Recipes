@@ -1,5 +1,7 @@
 # Slow Cooker Cream Cheese Chicken
 
+<img width="600" src="images/slow-cooker-cream-cheese-chicken.jpg" alt="Slow Cooker Cream Cheese Chicken">
+
 ## Ingredients
 
 - 3 lb boneless skinless chicken thighs
@@ -18,3 +20,5 @@
 3. Cover and cook on low for 6-8 hours or on high for 3-4 hours, until the chicken is cooked through and tender.
 4. Once cooked, shred the chicken using two forks and mix it well with the creamy sauce. Stir in the shredded cheddar cheese until melted and creamy.
 5. Serve the cream cheese chicken over rice or pasta, and garnish with chopped green onions for a pop of color.
+
+*Photo: Crock Cozy — [Slow Cooker Cream Cheese Chicken](https://www.crockcozy.com/slow-cooker-cream-cheese-chicken/)*

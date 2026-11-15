@@ -1,5 +1,7 @@
 # Mongolian Ground beef Noodles
 
+<img width="600" src="images/mongolian-ground-beef-noodles.jpg" alt="Mongolian Ground beef Noodles">
+
 ## Ingredients
 
 - 1 lb ground beef
@@ -24,3 +26,5 @@
 4. Mix the corn starch with cold water until smooth and stir into the skillet. Bring to a gentle boil; the sauce will thicken.
 5. Toss the cooked noodles in the skillet ensuring they are fully coated with the sauce. Allow to simmer together for 2-3 minutes.
 6. Sprinkle sliced green onions over the noodles and serve hot.
+
+*Photo: Cookrisp — [Mongolian Ground Beef Noodles with Rich Savory Sauce](https://cookrisp.com/recipes/easy-mongolian-ground-beef-noodles)*

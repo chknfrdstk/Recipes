@@ -1,5 +1,7 @@
 # Filipino Pancit
 
+<img width="600" src="images/filipino-pancit.jpg" alt="Filipino Pancit">
+
 ## Ingredients
 
 - 1 pkg (8.8 ounces) Thai vermicelli rice noodles
@@ -24,3 +26,5 @@
 4. Pour in the chicken stock, then add the shredded cabbage, sliced carrots and diced green onions. Cook until softened.
 5. Add the soaked noodles to the pan. Toss everything to combine well. Adjust the seasoning with salt and pepper if needed.
 6. Serve hot topped with lime juice and enjoy.
+
+*Photo: Billy Parisi — [Classic Pancit Recipe (Filipino Noodles with Chicken)](https://www.billyparisi.com/pancit/)*

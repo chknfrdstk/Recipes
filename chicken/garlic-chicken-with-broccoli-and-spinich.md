@@ -1,5 +1,7 @@
 # Garlic Chicken with Broccoli and Spinich
 
+<img width="600" src="images/garlic-chicken-with-broccoli-and-spinich.jpg" alt="Garlic Chicken with Broccoli and Spinich">
+
 ## Ingredients
 
 - 1 lb boneless skinless chicken thighs cubed
@@ -21,3 +23,5 @@
 3. Add the chopped tomatoes and broccoli and cook until broccoli is tender-crisp.
 4. Add spinach, shredded mozzarella and cream cheese. Stir well to combine and cook until the cheeses are melted and everything is well blended.
 5. Remove from heat and garnish with fresh parsley.
+
+*Photo: Justine Recipes — [Garlic Chicken with Broccoli and Spinach](https://www.justinerecipes.com/garlic-chicken-with-broccoli-and-spinach/)*

@@ -1,5 +1,7 @@
 # Creamy Crockpot Chicken Chili
 
+<img width="600" src="images/creamy-crockpot-chicken-chili.jpg" alt="Creamy Crockpot Chicken Chili">
+
 ## Ingredients
 
 - 2 lbs boneless skinless chicken thighs
@@ -33,3 +35,5 @@
 5. Cover and cook on low for 6-8 hours or high for 3-4 hours, until the chicken is cooked through and easily shredded.
 6. Shred the chicken with 2 forks and stir until everything is well combined and the chili is creamy.
 7. Serve hot with your desired toppings.
+
+*Photo: The Cookie Rookie — [Crockpot White Chicken Chili Recipe](https://www.thecookierookie.com/crockpot-white-chicken-chili/)*

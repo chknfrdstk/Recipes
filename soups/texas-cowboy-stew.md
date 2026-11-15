@@ -1,5 +1,7 @@
 # Texas Cowboy Stew
 
+<img width="600" src="images/texas-cowboy-stew.jpg" alt="Texas Cowboy Stew">
+
 ## Ingredients
 
 - 1 lb ground beef
@@ -23,3 +25,5 @@
 3. Bring the stew to a rolling boil, then reduce heat and simmer for 25-30 minutes.
 4. Taste and adjust seasoning if needed.
 5. Ladle into bowls and garnish with cilantro and jalapeños.
+
+*Photo: Insanely Good Recipes — [Texas Cowboy Stew (Easy Recipe)](https://insanelygoodrecipes.com/texas-cowboy-stew/)*

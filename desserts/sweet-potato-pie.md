@@ -1,5 +1,7 @@
 # Sweet Potato Pie
 
+<img width="600" src="images/sweet-potato-pie.jpg" alt="Sweet Potato Pie">
+
 ## Ingredients
 
 - 4 medium sweet potatoes
@@ -32,3 +34,5 @@
 ### Maple Whipped Topping
 
 In a medium bowl, beat together whipping cream and confectioners' sugar. Add maple syrup. Beat together until soft peaks form.
+
+*Photo: Love Bakes Good Cakes — [Sweet Potato Pie](https://www.lovebakesgoodcakes.com/sweet-potato-pie/)*

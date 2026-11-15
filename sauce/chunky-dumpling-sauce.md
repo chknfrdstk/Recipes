@@ -1,4 +1,5 @@
 # Chunky Dumpling Sauce
+<img width="600" src="images/chunky-dumpling-sauce.jpg" alt="Chunky Dumpling Sauce">
 
 ## Ingredients
 
@@ -13,3 +14,5 @@
 - 1/4 cup chili oil
 - 1/4 cup sliced green scallions
 - 1/4 cup chopped cilantro
+
+*Photo: The Savory Chopstick — [The Best Dumpling Dipping Sauce | Easy Recipe](https://www.thesavorychopstick.com/dumpling-sauce/)*

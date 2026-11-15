@@ -1,5 +1,7 @@
 # Beef and Parmesan Tortellini in Creamy Sauce
 
+<img width="600" src="images/beef-and-parmesan-tortellini-in-creamy-sauce.jpg" alt="Beef and Parmesan Tortellini in Creamy Sauce">
+
 ## Ingredients
 
 - 8 oz beef chuck cubed
@@ -21,3 +23,5 @@
 4. Add the cooked tortellini to the skillet, mixing to thoroughly coat the pasta.
 5. Season with additional salt and pepper to taste.
 6. Serve the tortellini hot, sprinkled with remaining Parmesan and fresh parsley.
+
+*Photo: Optimal Recipes — [Beef Parmesan Tortellini – Easy 25-Minute Creamy Recipe](https://optimalrecipes.com/beef-parmesan-tortellini-recipe-creamy-delicious-meal/)*

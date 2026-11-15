@@ -1,5 +1,7 @@
 # Creamy Beef Taco Soup
 
+<img width="600" src="images/creamy-beef-taco-soup.jpg" alt="Creamy Beef Taco Soup">
+
 ## Ingredients
 
 - 1 tbsp olive oil
@@ -32,3 +34,5 @@
 4. Pour in the beef broth and bring the mixture to a boil. Reduce the heat and simmer for 15-20 minutes.
 5. Stir in the heavy cream and shredded cheese until the cheese is melted and the soup is creamy. Add the sour cream and mix well. Season with salt and pepper to taste.
 6. Ladle the soup into bowls and add your desired toppings.
+
+*Photo: Sprinkled With Balance — [Creamy Beef Taco Soup](https://sprinkledwithbalance.com/creamy-beef-taco-soup/)*

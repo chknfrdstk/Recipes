@@ -1,4 +1,5 @@
 # Vietnamese Fish Sauce Recipe (Nước Chấm)
+<img width="600" src="images/vietnamese-fish-sauce-recipe-nuoc-cham.jpg" alt="Vietnamese Fish Sauce Recipe (Nước Chấm)">
 
 ## Ingredients
 
@@ -15,3 +16,5 @@
 2. Add lime or lemon juice in increments until you like how it tastes. A good guide is it should taste like lemonade/limeade.
 3. Add fish sauce in small increments until you like how it tastes. It should be a little strong since it will be paired with unseasoned food.
 4. Top with garlic and chilies then serve.
+
+*Photo: Full of Plants — [Vietnamese Dipping Sauce (Nước Chấm)](https://fullofplants.com/nuoc-cham/)*

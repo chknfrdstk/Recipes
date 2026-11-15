@@ -1,5 +1,7 @@
 # Buttermilk Pie
 
+<img width="600" src="images/buttermilk-pie.jpg" alt="Buttermilk Pie">
+
 ## Ingredients
 
 - 1⁄2 cup butter or 1/2 cup margarine, melted
@@ -19,3 +21,5 @@
 4. Sift the dry ingredients together and add to the batter alternatively with the buttermilk; beat until smooth.
 5. Divide between the deep dish pie shells and bake at 400F for 10 minutes, reduce heat to 350F and bake for 50-60 additional minutes.
 6. Pie should turn a nice golden brown and a knife inserted should come out clean.
+
+*Photo: Lil' Luna — [Buttermilk Pie](https://lilluna.com/buttermilk-pie/)*

@@ -1,5 +1,7 @@
 # Bacon Cheeseburger Soup
 
+<img width="600" src="images/bacon-cheeseburger-soup.jpg" alt="Bacon Cheeseburger Soup">
+
 ## Ingredients
 
 - 4 cups beef stock
@@ -23,3 +25,5 @@
 2. Add the beef stock, tomato, pickles, Dijon, Worcestershire sauce, parsley, salt and pepper. Bring to a boil, and then reduce the heat to medium-low and simmer for 30 minutes.
 3. Mix in the cheddar cheese and heavy cream, reduce the heat to low, cover and stirring occasionally, simmer for 30 minutes.
 4. Add bacon just before serving.
+
+*Photo: The Oregon Dietitian — [Creamy Cheeseburger Soup](https://theoregondietitian.com/creamy-cheeseburger-soup/)*

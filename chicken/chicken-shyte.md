@@ -1,5 +1,7 @@
 # Chicken Shyte
 
+<img width="600" src="images/chicken-shyte.jpg" alt="Chicken Shyte">
+
 ## Ingredients
 
 - 1.5 lbs boneless skinless chicken thighs, cubed
@@ -23,3 +25,5 @@
 7. Add heavy whipping cream and broccoli florets. Cook until the broccoli reaches your desired consistency.
 8. Stir in the shredded cheese and mix until combined and melted.
 9. Garnish with the green onions and serve.
+
+*Photo: Delicious Little Bites — [Chicken Bacon Ranch Pasta](https://deliciouslittlebites.com/chicken-bacon-ranch-pasta/)*

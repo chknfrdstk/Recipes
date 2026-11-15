@@ -1,5 +1,7 @@
 # Creamy Mushroom Chicken and Wild Rice Soup
 
+<img width="600" src="images/creamy-mushroom-chicken-and-wild-rice-soup.jpg" alt="Creamy Mushroom Chicken and Wild Rice Soup">
+
 ## Ingredients
 
 - 3 tbsp butter
@@ -21,3 +23,5 @@
 1. Melt 2 tbsp of butter in a pan over medium-high heat. Add the mushrooms and sauté until their liquids are release and evaporated. Set aside.
 2. In the same pan, melt 1 tbsp butter. Add the onions, carrots and celery. Sauté until tender. Stir in the garlic and thyme, cooking until fragrant.
 3. Add the chicken broth, wild rice, chicken and cooked mushrooms. Bring to a boil, then reduce heat and simmer, covered, for 20-30 minutes or until the rice is cooked. Stir in the milk/cream and grated Parmesan. Cook until the cheese is melted. Season with salt and pepper to taste.
+
+*Photo: Savor and Nest — [Creamy Mushroom Chicken & Wild Rice Soup](https://savorandnest.com/creamy-mushroom-chicken-wild-rice-soup/)*

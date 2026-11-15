@@ -1,4 +1,5 @@
 # Creamy Tuscan Spaghetti with Jumbo Scallops
+<img width="600" src="images/creamy-tuscan-spaghetti-with-jumbo-scallops.jpg" alt="Creamy Tuscan Spaghetti with Jumbo Scallops">
 
 ## Ingredients
 
@@ -22,3 +23,5 @@
 5. Pour in the heavy cream and bring it to a gentle simmer. Stir in the grated Parmesan cheese until melted and combined. If the sauce is too thick, you can use the reserved pasta water to reach your desired consistency.
 6. Add the cooked pasta to the skillet and toss until evenly coated with the sauce.
 7. Plate the coated pasta and top with the seared scallops. Garnish with fresh basil if desired.
+
+*Photo: Mantitlement — [Creamy Tuscan Spaghetti with Jumbo Scallops](https://www.mantitlement.com/creamy-tuscan-spaghetti-with-jumbo-scallops/comment-page-2/)*

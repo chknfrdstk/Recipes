@@ -1,5 +1,7 @@
 # Chicken Mushroom Stroganoff
 
+<img width="600" src="images/chicken-mushroom-stroganoff.jpg" alt="Chicken Mushroom Stroganoff">
+
 ## Ingredients
 
 - 1 lb thinly sliced chicken thighs
@@ -23,3 +25,5 @@
 5. Return the chicken to the skillet. Reduce the heat to low and let the mixture simmer for about 10 minutes, allowing the flavors to meld and the chicken to cook through.
 6. Stir in the sour cream and paprika. Season with salt and pepper to taste. Continue cooking for an additional 3 minutes or until the sauce thickens and the chicken is cooked through.
 7. Serve over cooked egg noodles or rice. Garnish with freshly chopped parsley.
+
+*Photo: Snug Meals — [Chicken Stroganoff](https://snugmeals.com/chicken-stroganoff/)*

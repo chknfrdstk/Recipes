@@ -1,5 +1,7 @@
 # Caldillo de Chile Verde
 
+<img width="600" src="images/caldillo-de-chile-verde.jpg" alt="Caldillo de Chile Verde">
+
 ## Ingredients
 
 - 2 tbsp olive oil
@@ -24,3 +26,5 @@
 4. Return the browned beef to the pot. Add the beef broth, ground cumin and dried oregano. Bring the mixture to a boil, then reduce heat to low. Simmer, partially covered, for 1.5 to 2 hrs, or until the beef is very tender.
 5. Taste and adjust the seasoning with salt and pepper if needed. The soup should be somewhat thick but still brothy.
 6. Ladle the Caldillo de Chile Verde into bowls. Garnish with fresh cilantro and serve with lime wedges on the side.
+
+*Photo: Recipes by Chloe — [Caldillo de Chile Verde](https://www.recipesbychloe.com/caldillo-de-chile-verde/)*

@@ -1,5 +1,7 @@
 # Chicken Bacon and Pasta with Spinach and Tomatoes in Garlic Cream Sauce
 
+<img width="600" src="images/chicken-bacon-and-pasta-with-spinach-and-tomatoes-in-garlic-cream-sauce.jpg" alt="Chicken Bacon and Pasta with Spinach and Tomatoes in Garlic Cream Sauce">
+
 ## Ingredients
 
 - 8 oz pasta
@@ -26,3 +28,5 @@
 7. Slice the cooked chicken into strips and add it back to the skillet along with the crumbled bacon.
 8. Add the cooked pasta to the skillet and toss until well coated.
 9. Serve the pasta garnished with fresh chopped parsley.
+
+*Photo: Cheeky Kitchen — [Chicken Bacon and Pasta with Spinach and Tomatoes in Garlic Cream Sauce](https://cheekykitchen.com/chicken-bacon-and-pasta-with-spinach-and-tomatoes-in-garlic-cream-sauce/)*

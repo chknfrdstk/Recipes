@@ -1,5 +1,7 @@
 # Sizzling Chinese Pepper Steak with Onions
 
+<img width="600" src="images/sizzling-chinese-pepper-steak-with-onions.jpg" alt="Sizzling Chinese Pepper Steak with Onions">
+
 ## Ingredients
 
 - 1 lb flank steak thinly sliced against the grain
@@ -28,3 +30,5 @@
 4. In a small bowl, whisk together the soy sauce, beef broth, oyster sauce, hoisin sauce, sugar black pepper and red pepper flakes.
 5. Pour the sauce mixture over the beef and vegetables. Stir and cook for 2 - 3 minutes until the sauce thickens and heats through.
 6. Serve over cooked rice and garnish with chopped green onions.
+
+*Photo: Cozy Dishes — [Chinese Pepper Steak with Onions](https://cozydishes.com/chinese-pepper-steak-with-onions/)*

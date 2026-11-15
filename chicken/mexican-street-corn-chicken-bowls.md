@@ -1,5 +1,7 @@
 # Mexican Street Corn Chicken Bowls
 
+<img width="600" src="images/mexican-street-corn-chicken-bowls.jpg" alt="Mexican Street Corn Chicken Bowls">
+
 ## Ingredients
 
 - 2 lbs boneless skinless chicken thighs
@@ -44,3 +46,5 @@
 2. Toast corn in a skillet with butter until slightly chared. In a bowl combine the corn, mayo, cilantro, lime juice garlic, chili powder, paprika. salt, pepper, red onion and cojita cheese. Mix well and adjust seasoning to taste.
 3. Serve over rice.
 4. Build your bowl how you like it!
+
+*Photo: Auntie Fork — [Street Corn Chicken Bowl](https://auntiefork.com/recipes/street-corn-chicken-bowl)*

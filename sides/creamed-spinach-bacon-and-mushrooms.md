@@ -1,4 +1,5 @@
 # Creamed Spinach, Bacon and Mushrooms
+<img width="600" src="images/creamed-spinach-bacon-and-mushrooms.jpg" alt="Creamed Spinach, Bacon and Mushrooms">
 
 ## Ingredients
 
@@ -24,3 +25,5 @@
 8. Continue cooking the sauce until it has thickened to your liking.
 9. Stir in bacon pieces and remove from the heat.
 10. Serve as a warm side dish or over pasta, rice or your favorite protein.
+
+*Photo: Stylish Cravings — [Keto Creamed Spinach With Mushrooms & Bacon](https://stylishcravings.com/keto-creamed-spinach-with-mushrooms-bacon/)*

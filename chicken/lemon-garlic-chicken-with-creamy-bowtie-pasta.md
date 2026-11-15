@@ -1,5 +1,7 @@
 # Lemon Garlic Chicken with Creamy Bowtie Pasta
 
+<img width="600" src="images/lemon-garlic-chicken-with-creamy-bowtie-pasta.jpg" alt="Lemon Garlic Chicken with Creamy Bowtie Pasta">
+
 ## Ingredients
 
 ### Chicken
@@ -37,3 +39,5 @@
 8. Return the chicken to the pasta, stirring to mix into the pasta.
 9. Garnish with chopped parsley, basil and grated Parmesan cheese.
 10. Serve hot.
+
+*Photo: Sally Meals — [Lemon Garlic Chicken with Creamy Bowtie Pasta](https://sallymeals.com/lemon-garlic-chicken-with-creamy-bowtie-pasta/)*

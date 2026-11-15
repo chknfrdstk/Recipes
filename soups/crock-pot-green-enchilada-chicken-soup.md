@@ -1,5 +1,7 @@
 # Crock Pot Green Enchilada Chicken Soup
 
+<img width="600" src="images/crock-pot-green-enchilada-chicken-soup.jpg" alt="Crock Pot Green Enchilada Chicken Soup">
+
 ## Ingredients
 
 - 3 lbs boneless skinless chicken thighs
@@ -28,3 +30,5 @@
 5. About 30 minutes before serving, remove and shred the chicken. Add the shredded chicken back to the crock pot.
 6. Add the jack cheese, cream cheese, heavy whipping cream and guacamole salsa to the crock pot. Stirring until the cream cheese is melted and incorporated fully.
 7. Ladle into bowls and serve garnished with cilantro, green onions, avocado and tortilla strips.
+
+*Photo: Kitchen Status — [Green Enchilada Chicken Soup](https://kitchenstatus.com/green-enchilada-chicken-soup/)*

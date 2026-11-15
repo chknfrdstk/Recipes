@@ -1,5 +1,7 @@
 # French Onion Beef and Noodles
 
+<img width="600" src="images/french-onion-beef-and-noodles.jpg" alt="French Onion Beef and Noodles">
+
 ## Ingredients
 
 - 2 tbsp olive oil
@@ -21,3 +23,5 @@
 3. Add the egg noodles and cook until done.
 4. Remove the pot from the heat. Stir in the sour cream and Parmesan cheese until well combined.
 5. Serve warm garnished with fried onions.
+
+*Photo: Zest Plate — [Hearty Beef French Onion Noodles | Quick Comfort Food](https://zestplate.com/recipes/beef-french-onion-noodles)*

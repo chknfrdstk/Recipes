@@ -1,5 +1,7 @@
 # Chicken Noodle Soup
 
+<img width="600" src="images/chicken-noodle-soup.jpg" alt="Chicken Noodle Soup">
+
 ## Ingredients
 
 - 1 lb boneless skinless chicken thighs
@@ -25,3 +27,5 @@
 5. If, during this time, the broth seems low, add a splash more stock or a bit of water. Turn the heat to medium-low.
 6. Transfer the cooked chicken to a plate. Stir the noodles into the soup and cook until done.
 7. While the noodles cook, shred the chicken into strips or dice into cubes. Slide the chicken back into the pot and then taste the soup once more for seasoning. Adjust with more salt and pepper, as needed. Stir in the parsley and serve.
+
+*Photo: Circuit Bites — [Cozy Chicken Noodle Soup](https://circuitbites.com/recipes/cozy-chicken-noodle-soup)*

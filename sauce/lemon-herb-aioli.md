@@ -1,4 +1,5 @@
 # Lemon-Herb Aioli
+<img width="600" src="images/lemon-herb-aioli.jpg" alt="Lemon-Herb Aioli">
 
 ## Ingredients
 
@@ -15,3 +16,5 @@
 
 1. In a small bowl, combine mayonnaise, sour cream, minced garlic, lemon juice, dill, salt, and pepper.
 2. Mix well until smooth and creamy.
+
+*Photo: Kim Schob — [Easy Lemon Herb Aioli Recipe](https://www.kimschob.com/lemon-aioli/)*

@@ -1,5 +1,7 @@
 # Melt in Your Mouth Chicken
 
+<img width="600" src="images/melt-in-your-mouth-chicken.jpg" alt="Melt in Your Mouth Chicken">
+
 ## Ingredients
 
 - 2 - 3 lbs boneless skinless chicken thighs
@@ -18,3 +20,5 @@
 4. Spread the mayonnaise mixture on top of the chicken.
 5. Bake the chicken unfortunately 45 minutes or until cooked through.
 6. Serve warm.
+
+*Photo: A Southern Soul — [Melt in Your Mouth Chicken Recipe (Creamy, Golden, and Easy)](https://www.asouthernsoul.com/melt-in-your-mouth-chicken/)*

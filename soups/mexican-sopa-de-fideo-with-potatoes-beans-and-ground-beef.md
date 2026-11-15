@@ -1,5 +1,7 @@
 # Mexican Sopa de Fideo with Potatoes, Beans, and Ground Beef
 
+<img width="600" src="images/mexican-sopa-de-fideo-with-potatoes-beans-and-ground-beef.jpg" alt="Mexican Sopa de Fideo with Potatoes, Beans, and Ground Beef">
+
 ## Ingredients
 
 - 2 tbsp vegetable oil
@@ -28,3 +30,5 @@
 6. Once the potatoes are cooked, add the fideo noodles and cook for an additional 5-7 minutes, or until the noodles are tender.
 7. Stir in the drained pinto beans and heat through for another 2-3 minutes.
 8. Ladle the sopa de fideo into bowls and garnish with fresh cilantro. Serve with lime wedges on the side for squeezing over the soup.
+
+*Photo: Kitchen Momy — [Sopa De Fideo Con Carne](https://www.kitchenmomy.com/sopa-de-fideo-con-carne/)*

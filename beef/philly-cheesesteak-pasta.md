@@ -1,5 +1,7 @@
 # Philly Cheesesteak Pasta
 
+<img width="600" src="images/philly-cheesesteak-pasta.jpg" alt="Philly Cheesesteak Pasta">
+
 ## Ingredients
 
 - 2 tbsp olive oil
@@ -26,3 +28,5 @@
 5. Remove from heat. Sprinkle the mozzarella and half of the provolone cheese into the pan and stir to distribute.
 6. Top with the remaining provolone cheese. Put the lid back on the skillet for a couple of minutes to melt the cheese.
 7. Garnish with chopped parsley.
+
+*Photo: Ava Chef Life — [Philly Cheesesteak Pasta](https://avacheflife.com/philly-cheesesteak-pasta/)*

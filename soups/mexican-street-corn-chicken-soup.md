@@ -1,5 +1,7 @@
 # Mexican Street Corn Chicken Soup
 
+<img width="600" src="images/mexican-street-corn-chicken-soup.jpg" alt="Mexican Street Corn Chicken Soup">
+
 ## Ingredients
 
 - 4 lb boneless skinless chicken thighs cubed
@@ -32,3 +34,5 @@
 6. Reduce heat and simmer until the chicken is cooked through.
 7. Add sour cream, monterey jack cheese, cilantro, roasted corn and lime juice.
 8. Serve with cojita cheese, fried tortilla strips, avocado, green onions and more shreaded cheese if desired.
+
+*Photo: Recibeez — [Creamy chicken soup with Mexican street corn, spices, fresh cilantro, and queso fresco](https://recibeez.com/recipes/mexican-street-corn-soup)*

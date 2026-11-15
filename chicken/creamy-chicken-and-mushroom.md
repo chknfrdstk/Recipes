@@ -1,5 +1,7 @@
 # Creamy Chicken and Mushroom
 
+<img width="600" src="images/creamy-chicken-and-mushroom.jpg" alt="Creamy Chicken and Mushroom">
+
 ## Ingredients
 
 - 1 lb chicken thighs sliced
@@ -18,3 +20,5 @@
 2. Add onions and garlic and cook until transparent, then add mushrooms.
 3. Return chicken to pan and add cream and soup mix. Allow to simmer for at least 10 minutes.
 4. Season to taste and serve with rice.
+
+*Photo: Eat Me Well — [Creamy Chicken and Mushrooms](https://eatmewell.com/creamy-chicken-and-mushrooms/)*

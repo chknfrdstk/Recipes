@@ -6,6 +6,21 @@ Personal recipes, in Markdown — organised by protein, with photos committed in
 
 ## Changelog
 
+### November 15, 2026 — Web-sourced photos for no-photo recipes
+
+- **Photos added for all 58 remaining no-photo recipes** — representative dish photos found on the web and added to each folder's `images/`, linked in the `.md` at 600px and on the folder index cards. Every recipe in the repo (171) now has a photo. Sources are credited in each `.md`; the photos are stand-ins found online, not the author's own dishes, so some differ from the recipe in small details.
+- **Beef (9)** — Beef and Parmesan Tortellini in Creamy Sauce; Caldillo de Chile Verde; Cowboy Stew; Fideo with Potatoes and Ground Beef; French Onion Beef and Noodles; Meat Loaf; Mongolian Ground Beef Noodles; Philly Cheesesteak Pasta; Sizzling Chinese Pepper Steak with Onions.
+- **Chicken (18)** — Cajun Chicken Pasta; Caribbean Chicken and Rice; Cheesy Salsa Verde Chicken Casserole; Chicken Bacon and Pasta with Spinach and Tomatoes in Garlic Cream Sauce; Chicken Mushroom Stroganoff; Chicken Shyte; Coconut Curry Chicken with Lemongrass; Coconut Curry Chicken with Rice Noodles; Creamy Chicken and Mushroom; Filipino Pancit; Garlic Chicken with Broccoli and Spinich; Garlic Roast Chicken with Rosemary and Lemon; King Ranch Chicken; Lemon Garlic Chicken with Creamy Bowtie Pasta; Melt in Your Mouth Chicken; Mexican Street Corn Chicken Bowls; Slow Cooker Cream Cheese Chicken; Street Corn Chicken Rice Bowl.
+- **Soups (18)** — Bacon Cabbage and Potato Soup; Bacon Cheeseburger Soup; Chicken Avocado Lime Soup; Chicken Noodle Soup; Coconut Lime Seafood Chowder; Coconut Lime Shrimp Soup; Creamy Beef Taco Soup; Creamy Crockpot Chicken Chili; Creamy Mushroom Chicken and Wild Rice Soup; Creamy Parmesan Italian Sausage Ditalini Soup; Crock Pot Green Enchilada Chicken Soup; Keto Unstuffed Cabbage Soup; Mexican Sopa de Fideo with Potatoes, Beans, and Ground Beef; Mexican Street Corn Chicken Soup; One Pot Macaroni Cheeseburger Soup; Texas Cowboy Stew; Thai Red Curry Chicken Noodle Soup; Thai Red Curry Dumpling Soup.
+- **Sauce (5)** — Chunky Dumpling Sauce; Lemon-Herb Aioli; Ranch; Vietnamese Fish Sauce Recipe (Nước Chấm); Wing Stop Ranch.
+- **Seafood (3)** — Creamy Tuscan Spaghetti with Jumbo Scallops; Shrimp Dirty Rice; Spicy Shrimp Tacos with Garlic Cilantro Lime Slaw.
+- **No-meat (1)** — Italian Drunken Noodles. **Sides (1)** — Creamed Spinach, Bacon and Mushrooms.
+- **Desserts (3)** — Buttermilk Pie; Peanut Butter Cream Pie; Sweet Potato Pie.
+
+### November 15, 2026 — Web-sourced photo for Asparagus and Chicken Fricassee
+
+- **Photo added for Asparagus and Chicken Fricassee** — no photo of the dish existed, so a representative photo was found on the web (Yeyfood's Chicken Fricassee with Spring Vegetables — chicken, mushrooms, and asparagus in a skillet) and added as `chicken/images/asparagus-and-chicken-fricassee.jpg`, linked in the `.md` at 600px and on the Chicken index card. The sauce in the photo looks creamier than this recipe's broth reduction — a stand-in, not the author's own dish; source credited in the `.md`.
+
 ### November 14, 2026 — GitHub Pages enabled
 
 - **GitHub Pages** — Jekyll, deploy from `main` / (root), via `_config.yml`. Site: https://chknfrdstk.github.io/Recipes/

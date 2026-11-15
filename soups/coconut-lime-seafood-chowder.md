@@ -1,5 +1,7 @@
 # Coconut Lime Seafood Chowder
 
+<img width="600" src="images/coconut-lime-seafood-chowder.jpg" alt="Coconut Lime Seafood Chowder">
+
 ## Ingredients
 
 - 2 lb white fish fillets cod, tilapia or haddock)
@@ -32,3 +34,5 @@
 6. Gently add the diced fish, scallops and shrimp to the pot, stirring gently. Let the soup simmer until the seafood is cooked through.
 7. Add the lime zest, lime juice, fish sauce and red pepper flakes. Season with salt and pepper to taste.
 8. Ladle the chowder in to bowls, garnishing with cilantro and chopped green onions. Serve with Lime wedges on the side.
+
+*Photo: Vkusny Blog — [Cod Chowder in Coconut Milk](https://www.vkusnyblog.com/recipe/chauder-iz-treski-na-kokosovom-moloke/)*

@@ -1,5 +1,7 @@
 # Chicken Avocado Lime Soup
 
+<img width="600" src="images/chicken-avocado-lime-soup.jpg" alt="Chicken Avocado Lime Soup">
+
 ## Ingredients
 
 - 1 1/2 lbs boneless skinless chicken thighs
@@ -23,3 +25,5 @@
 3. Reduce heat to medium, cover with lid and allow to cook, stirring occasionally, until chicken has cooked through.
 4. Reduce burner to warm heat, remove chicken from pan and let rest on a cutting board 5 minutes, then shred chicken and return to soup. Stir in cilantro and lime juice, and rotisserie chicken now if using.
 5. Add avocados to soup just before serving (if you don't plan on serving the soup right away, I would recommend adding the avocados to each bowl individually, about 1/2 an avocado per serving). Serve with tortilla strips, cheese, lime wedges and sour cream if desired.
+
+*Photo: Nutmeg Nanny — [Chicken Avocado Cilantro Lime Soup](https://www.nutmegnanny.com/chicken-avocado-cilantro-lime-soup/)*

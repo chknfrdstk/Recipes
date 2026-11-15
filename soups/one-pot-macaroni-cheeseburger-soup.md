@@ -1,5 +1,7 @@
 # One Pot Macaroni Cheeseburger Soup
 
+<img width="600" src="images/one-pot-macaroni-cheeseburger-soup.jpg" alt="One Pot Macaroni Cheeseburger Soup">
+
 ## Ingredients
 
 - 1 lb ground beef
@@ -17,3 +19,5 @@
 3. Stir in the macaroni and cook until al dente.
 4. Reduce heat and add the milk and cheese, stirring until the cheese is melted and soup is creamy.
 5. Season with salt and pepper to taste and serve.
+
+*Photo: Recipes Realm — [One Pot Macaroni Cheeseburger Soup](https://recipesrealm.com/one-pot-macaroni-cheeseburger-soup/)*

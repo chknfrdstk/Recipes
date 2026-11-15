@@ -1,5 +1,7 @@
 # Thai Red Curry Chicken Noodle Soup
 
+<img width="600" src="images/thai-red-curry-chicken-noodle-soup.jpg" alt="Thai Red Curry Chicken Noodle Soup">
+
 ## Ingredients
 
 - 1 tbsp olive oil
@@ -27,3 +29,5 @@
 4. Add the broth and rice noodles to the pot and bring to a boil, then reduce heat to medium until the noodles are al dente.
 5. Add the coconut milk, soy sauce and lime juice. Stir until warmed through. Season with salt and pepper to taste.
 6. Serve warm garnished with cilantro and sliced green onions.
+
+*Photo: Best Hot Recipes — [Thai Red Curry Noodle Soup](https://besthotrecipes.com/easy-thai-chicken-soup/)*

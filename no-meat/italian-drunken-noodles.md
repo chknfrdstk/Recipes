@@ -1,4 +1,5 @@
 # Italian Drunken Noodles
+<img width="600" src="images/italian-drunken-noodles.jpg" alt="Italian Drunken Noodles">
 
 ## Ingredients
 
@@ -25,3 +26,5 @@
 6. Stir in the red pepper flakes and season with salt and pepper to taste.
 7. Remove from the heat. Stir in the fresh basal leaves and grated Parmesan cheese.
 8. Serve immediately, garnished with basal leaves and grated Parmesan cheese.
+
+*Photo: Insanely Good Recipes — [Italian Drunken Noodles](https://insanelygoodrecipes.com/italian-drunken-noodles/)*

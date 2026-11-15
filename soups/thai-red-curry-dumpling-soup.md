@@ -1,5 +1,7 @@
 # Thai Red Curry Dumpling Soup
 
+<img width="600" src="images/thai-red-curry-dumpling-soup.jpg" alt="Thai Red Curry Dumpling Soup">
+
 ## Ingredients
 
 - 1 tbsp vegetable oil
@@ -26,3 +28,5 @@
 5. Add the snap peas, red bell pepper, mushrooms and carrots, cooking until the vegetables are tender-crisp.
 6. Gently stir in the frozen dumplings and soy sauce. Simmer until the dumplings are cooked through.
 7. Serve hot, garnished with fresh cilantro and lime wedge.
+
+*Photo: Sophia Yummy — [Soup Dumplings in Thai Red Curry Sauce](https://sophiayummy.com/soup-dumplings-in-thai-red-curry-sauce/)*

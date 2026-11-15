@@ -1,5 +1,7 @@
 # Cowboy Stew
 
+<img width="600" src="images/cowboy-stew.jpg" alt="Cowboy Stew">
+
 ## Ingredients
 
 - 1 lb ground beef
@@ -24,3 +26,5 @@
 4. Add taco seasoning and chili powder and stir until evenly combined.
 5. Add tomatoes, beans, corn, potatoes and beef broth. Stir and cook until the potatoes are done.
 6. Salt and pepper to taste.
+
+*Photo: Scattered Thoughts of a Crafty Mom — [Cowboy Stew](https://www.scatteredthoughtsofacraftymom.com/cowboy-stew/)*

@@ -1,5 +1,7 @@
 # Caribbean Chicken and Rice
 
+<img width="600" src="images/caribbean-chicken-and-rice.jpg" alt="Caribbean Chicken and Rice">
+
 ## Ingredients
 
 - 2.5-3 lbs boneless, skinless chicken thighs
@@ -30,3 +32,5 @@
 5. Add the diced tomatoes, black beans, chicken broth and coconut milk to the skillet. Stir to combine.
 6. Return the chicken to the skillet, nestling them into the rice mixture. Bring to a simmer, then reduce the heat to low. Cover and cook for 20-25 minutes or until the rice is tender and the liquid is absorbed.
 7. Garnish with chopped cilantro and serve with lime wedges.
+
+*Photo: Eva Whisks — [Caribbean Chicken and Rice](https://evawhisks.com/caribbean-chicken-and-rice/)*

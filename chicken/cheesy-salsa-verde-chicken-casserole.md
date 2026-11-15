@@ -1,5 +1,7 @@
 # Cheesy Salsa Verde Chicken Casserole
 
+<img width="600" src="images/cheesy-salsa-verde-chicken-casserole.jpg" alt="Cheesy Salsa Verde Chicken Casserole">
+
 ## Ingredients
 
 - 2 pounds boneless, skinless chicken breasts, cut into small bite-sized pieces
@@ -22,3 +24,5 @@
 3. Pour 1/4 cup of the salsa Verde into a 2-quart casserole dish. Pour the chicken mixture on top and spread it out in an even layer. Top with the remaining salsa Verde, mozzarella, and cheddar cheese.
 4. Bake for 30 minutes, or until the casserole in bubbling and the chicken is cooked all the way through.
 5. Top with avocado, pico de gallo and cilantro.
+
+*Photo: Kali Recipes — [Salsa Verde Chicken Casserole](https://kalirecipes.com/salsa-verde-chicken-casserole-recipe/)*

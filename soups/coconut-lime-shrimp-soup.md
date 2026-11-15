@@ -1,5 +1,7 @@
 # Coconut Lime Shrimp Soup
 
+<img width="600" src="images/coconut-lime-shrimp-soup.jpg" alt="Coconut Lime Shrimp Soup">
+
 ## Ingredients
 
 - 14 oz large shrimp peeled and deveined
@@ -27,6 +29,8 @@
 6. Once the soup is simmering, add the shrimp to the pot. Cook for about 5-7 minutes, or until the shrimp turn pink and opaque.
 7. Stir in the fish sauce, lime juice, lime zest, red pepper flakes, salt, and pepper to taste. Adjust the seasoning as needed.
 8. Ladle the soup into bowls and garnish with fresh cilantro or parsley. Serve warm.
+
+*Photo: Home Cooking Style — [Coconut Lime Shrimp Soup: Flavorful and Easy Recipe](https://homecookingstyle.com/coconut-lime-shrimp-soup-flavorful-and-easy-recipe/)*
 
 ## Tips
 

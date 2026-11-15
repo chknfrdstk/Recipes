@@ -1,5 +1,7 @@
 # Keto Unstuffed Cabbage Soup
 
+<img width="600" src="images/keto-unstuffed-cabbage-soup.jpg" alt="Keto Unstuffed Cabbage Soup">
+
 ## Ingredients
 
 - 2 cups white rice
@@ -24,3 +26,5 @@
 5. Add the cabbage and stir in.
 6. Cover and cook on medium low for about 30 minutes or until cabbage has softened.
 7. Stir in prepared rice. Add additional chicken broth, if desired. Simmer for another 5-10 minutes
+
+*Photo: Mary's Whole Life — [Easy Instant Pot Unstuffed Cabbage Soup](https://www.maryswholelife.com/instant-pot-unstuffed-cabbage-soup/)*

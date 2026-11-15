@@ -1,5 +1,7 @@
 # Cajun Chicken Pasta
 
+<img width="600" src="images/cajun-chicken-pasta.jpg" alt="Cajun Chicken Pasta">
+
 ## Ingredients
 
 - 1 lb fettuccine
@@ -28,3 +30,5 @@
 5. With the pan over high heat, pour in the wine and chicken broth. Cook on high for 3 to 5 minutes, scraping the bottom of the pan to deglaze. Reduce the heat to medium-low and pour in the cream, stirring/whisking constantly. Cook the sauce over medium-low heat until the cream starts to thicken the mixture. Taste and add black pepper, cayenne pepper and salt to taste. The sauce should be spicy!
 6. Finally, add the chicken and vegetables to the sauce, making sure to include all the juices that have drained onto the plate. Stir and cook until the mixture is bubbly and hot, 1 to 2 minutes. Add the drained pasta and toss to combine.
 7. Top with chopped fresh parsley and chow down!
+
+*Photo: Alyona's Cooking — [Creamy Cajun Chicken Pasta (with Homemade Cajun Seasoning)](https://www.alyonascooking.com/cajun-chicken-pasta-recipe/)*

@@ -1,5 +1,7 @@
 # Bacon Cabbage and Potato Soup
 
+<img width="600" src="images/bacon-cabbage-and-potato-soup.jpg" alt="Bacon Cabbage and Potato Soup">
+
 ## Ingredients
 
 - 6 slices of thick cut bacon diced
@@ -19,3 +21,5 @@
 3. Stir in the diced potatoes and chicken broth. Bring to a boil, then reduce the heat and simmer for about 10 minutes, until the potatoes are fork tender.
 4. Add the chopped cabbage and cooked bacon back to the pot. Season with salt and pepper to taste. Simmer until the cabbage is tender.
 5. Serve hot, garnished with fresh chopped parsley.
+
+*Photo: Sharlene Recipes — [Irish Bacon Cabbage and Potato Soup](https://www.sharlenerecipes.com/irish-bacon-cabbage-and-potato-soup/)*

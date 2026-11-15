@@ -1,4 +1,5 @@
 # Spicy Shrimp Tacos with Garlic Cilantro Lime Slaw
+<img width="600" src="images/spicy-shrimp-tacos-with-garlic-cilantro-lime-slaw.jpg" alt="Spicy Shrimp Tacos with Garlic Cilantro Lime Slaw">
 
 ## Ingredients
 
@@ -37,3 +38,5 @@
 2. Toss some of the sauce (not all) with the cabbage. We'll use the leftover sauce to top the tacos.
 3. Pat the shrimp dry with paper towels. Toss the shrimp in a small bowl with the spice mix to get it coated. Heat a drizzle of oil a large skillet over medium high heat. Add the shrimp to the hot pan and sauté for 5-8 minutes, flipping occasionally, until the shrimp are cooked through.
 4. For the prettiest and easiest-to-eat assembly, go in this order: smashed avocado, slaw, and shrimp. Finish with Cotjia cheese, lime wedges, and extra sauce.
+
+*Photo: Cooking with Yvette — [Spicy Shrimp Garlic Cilantro Lime](https://cookingwithyvette.com/recipes/spicy-shrimp-garlic-cilantro-lime)*

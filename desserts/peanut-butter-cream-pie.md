@@ -1,5 +1,7 @@
 # Peanut Butter Cream Pie
 
+<img width="600" src="images/peanut-butter-cream-pie.jpg" alt="Peanut Butter Cream Pie">
+
 ## Ingredients
 
 - 8 oz cream cheese, softened
@@ -15,3 +17,5 @@
 1. In a large bowl, beat cream cheese until fluffy. Beat in sugar and peanut butter. Gradually add milk. Fold in whipped topping.
 2. Spoon into crust.
 3. Cover and refrigerate overnight. Sprinkle with peanuts before serving.
+
+*Photo: Love This Recipe — [Irresistible Amish Peanut Butter Cream Pie](https://lovethisrecipe.com/irresistible-amish-peanut-butter-cream-pie/)*

@@ -1,5 +1,7 @@
 # Asparagus and Chicken Fricassee
 
+<img width="600" src="images/asparagus-and-chicken-fricassee.jpg" alt="Asparagus and Chicken Fricassee">
+
 ## Ingredients
 
 - 2 tbsp olive oil
@@ -21,3 +23,5 @@
 7. Pour in chicken brooth and simmer until reduced by half.
 8. Stir in asparagus and cook until tender.
 9. Return chicken to the skillet and heat through.
+
+*Photo: Yeyfood — [Chicken Fricassee with Spring Vegetables](https://yeyfood.com/chicken-fricassee-with-spring-vegetables/)*

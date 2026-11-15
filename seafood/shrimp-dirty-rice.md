@@ -1,4 +1,5 @@
 # Shrimp Dirty Rice
+<img width="600" src="images/shrimp-dirty-rice.jpg" alt="Shrimp Dirty Rice">
 
 ## Ingredients
 
@@ -30,3 +31,5 @@
 6. Add cooked rice and simmer an additional 5 minutes or so
 7. Add shrimp and store to combine.
 8. Enjoy
+
+*Photo: Recipes by Caroline — [Shrimp Dirty Rice](https://www.recipesbycaroline.com/shrimp-dirty-rice/)*

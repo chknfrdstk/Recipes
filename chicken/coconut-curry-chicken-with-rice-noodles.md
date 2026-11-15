@@ -1,5 +1,7 @@
 # Coconut Curry Chicken with Rice Noodles
 
+<img width="600" src="images/coconut-curry-chicken-with-rice-noodles.jpg" alt="Coconut Curry Chicken with Rice Noodles">
+
 ## Ingredients
 
 - 1 pound boneless, skinless chicken thighs cut into bite-sized pieces
@@ -40,3 +42,5 @@
 
 - Adjust Spice Level: Feel free to adjust the amount of curry paste based on your heat preference.
 - Add Extra Veggies: You can add other vegetables like carrots or snap peas for more color and nutrition.
+
+*Photo: Meal Mirth — [Coconut Curry Chicken and Rice Noodles](https://mealmirth.com/coconut-curry-chicken-and-rice-noodles/)*

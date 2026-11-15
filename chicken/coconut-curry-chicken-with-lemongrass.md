@@ -1,5 +1,7 @@
 # Coconut Curry Chicken with Lemongrass
 
+<img width="600" src="images/coconut-curry-chicken-with-lemongrass.jpg" alt="Coconut Curry Chicken with Lemongrass">
+
 ## Ingredients
 
 - 1 lb boneless skinless chicken thighs cut into bite-sized pieces
@@ -34,3 +36,5 @@
 
 - For extra spiciness, add chopped chili peppers or a dash of cayenne pepper.
 - Consider adding bell peppers, snap peas, or carrots for added nutrition and color.
+
+*Photo: Me Plus Food — [Lemongrass Coconut Chicken Curry](https://meplusfood.com/lemongrass-coconut-chicken-curry/)*

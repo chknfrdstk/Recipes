@@ -1,5 +1,7 @@
 # Creamy Parmesan Italian Sausage Ditalini Soup
 
+<img width="600" src="images/creamy-parmesan-italian-sausage-ditalini-soup.jpg" alt="Creamy Parmesan Italian Sausage Ditalini Soup">
+
 ## Ingredients
 
 - 1 lb Italian sausage
@@ -27,3 +29,5 @@
 5. Lower the heat to medium, Stir in the cooked sausage, heavy cream and grated Parmesan cheese. Simmer for 5 minutes, allowing the soup to thicken slightly.
 6. Stir in the fresh spinach until it wilts into the soup. Season with salt and pepper to taste.
 7. Ladle the soup into bowls, garnished with fresh parsley.
+
+*Photo: Tea Time with Naomi — [Creamy Parmesan Italian Sausage Ditalini Soup](https://cooking.teatimewithnaomi.com/creamy-parmesan-italian-sausage-ditalini-soup/)*
