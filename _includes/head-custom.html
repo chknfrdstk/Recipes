@@ -1,0 +1,13 @@
+{% assign section_icon = 'default' %}
+{% if page.url contains '/beef/' %}{% assign section_icon = 'beef' %}
+{% elsif page.url contains '/chicken/' %}{% assign section_icon = 'chicken' %}
+{% elsif page.url contains '/pork/' %}{% assign section_icon = 'pork' %}
+{% elsif page.url contains '/seafood/' %}{% assign section_icon = 'seafood' %}
+{% elsif page.url contains '/soups/' %}{% assign section_icon = 'soups' %}
+{% elsif page.url contains '/sides/' %}{% assign section_icon = 'sides' %}
+{% elsif page.url contains '/sauce/' %}{% assign section_icon = 'sauce' %}
+{% elsif page.url contains '/no-meat/' %}{% assign section_icon = 'no-meat' %}
+{% elsif page.url contains '/desserts/' %}{% assign section_icon = 'desserts' %}
+{% endif %}
+<link rel="icon" type="image/png" href="https://chknfrdstk.github.io/Recipes/assets/icons/{{ section_icon }}.png">
+<link rel="apple-touch-icon" href="https://chknfrdstk.github.io/Recipes/assets/icons/{{ section_icon }}-180.png">

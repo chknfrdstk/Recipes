@@ -6,6 +6,11 @@ Personal recipes, in Markdown — organised by protein, with photos committed in
 
 ## Changelog
 
+### November 16, 2026 — Per-section favicons
+
+- **Tab icon per protein section** — each section now shows its own home-page tile emoji in the browser tab: beef 🥩, chicken 🍗, pork 🐷, seafood 🦐, soups 🍲, sides 🥗, sauce 🫙, no-meat 🥦, desserts 🍰. Home page and other pages get 🍽️.
+- **How it works** — `_includes/head-custom.html` picks the icon from the page URL (first path segment), and the icons live in `assets/icons/` (72px for the tab, 180px for the Apple touch icon). Icons are Twemoji renders of the same emojis used on the home-page cards.
+
 ### November 15, 2026 — Web-sourced photos for no-photo recipes
 
 - **Photos added for all 58 remaining no-photo recipes** — representative dish photos found on the web and added to each folder's `images/`, linked in the `.md` at 600px and on the folder index cards. Every recipe in the repo (171) now has a photo. Sources are credited in each `.md`; the photos are stand-ins found online, not the author's own dishes, so some differ from the recipe in small details.
