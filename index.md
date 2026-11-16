@@ -1,10 +1,10 @@
 # Recipes
 
-171 recipes, organised by protein. Pick one to see what's in it.
+172 recipes, organised by protein. Pick one to see what's in it.
 
 <div class="card-grid">
 <div class="card"><a href="beef/"><span class="card-emoji">🥩</span><span class="card-title">Beef</span><span class="card-count">22 recipes</span></a></div>
-<div class="card"><a href="chicken/"><span class="card-emoji">🍗</span><span class="card-title">Chicken</span><span class="card-count">61 recipes</span></a></div>
+<div class="card"><a href="chicken/"><span class="card-emoji">🍗</span><span class="card-title">Chicken</span><span class="card-count">62 recipes</span></a></div>
 <div class="card"><a href="pork/"><span class="card-emoji">🐷</span><span class="card-title">Pork</span><span class="card-count">8 recipes</span></a></div>
 <div class="card"><a href="seafood/"><span class="card-emoji">🦐</span><span class="card-title">Seafood</span><span class="card-count">14 recipes</span></a></div>
 <div class="card"><a href="soups/"><span class="card-emoji">🍲</span><span class="card-title">Soups</span><span class="card-count">43 recipes</span></a></div>

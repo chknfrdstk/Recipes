@@ -1,6 +1,6 @@
 # Chicken Recipes
 
-61 recipes.
+62 recipes.
 
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/asparagus-and-chicken-fricassee.html"><img src="images/asparagus-and-chicken-fricassee.jpg" alt="Asparagus and Chicken Fricassee"><span class="recipe-title">Asparagus and Chicken Fricassee</span></a></div>
@@ -39,6 +39,7 @@
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/greek-chicken-gyros.html"><img src="images/greek-chicken-gyros.jpg" alt="Greek Chicken Gyros"><span class="recipe-title">Greek Chicken Gyros</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/grilled-chicken-and-broccoli-bowls-with-creamy-garlic-sauce.html"><img src="images/grilled-chicken-and-broccoli-bowls-with-creamy-garlic-sauce.jpg" alt="Grilled Chicken & Broccoli Bowls with Creamy Garlic Sauce"><span class="recipe-title">Grilled Chicken & Broccoli Bowls with Creamy Garlic Sauce</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/herbed-chicken-and-mushrooms.html"><img src="images/herbed-chicken-and-mushrooms.jpg" alt="Herbed Chicken and Mushrooms"><span class="recipe-title">Herbed Chicken and Mushrooms</span></a></div>
+<div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/honey-lime-chicken-bowls.html"><img src="https://chknfrdstk.github.io/Recipes/chicken/images/honey-lime-chicken-bowls.jpg" alt="Honey Lime Chicken Bowls with Creamy Cilantro Lime Drizzle"><span class="recipe-title">Honey Lime Chicken Bowls with Creamy Cilantro Lime Drizzle</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/italian-garlic-chicken-meatballs-with-creamy-bowties.html"><img src="images/italian-garlic-chicken-meatballs-with-creamy-bowties.jpg" alt="Italian Garlic Chicken Meatballs with Creamy Bowties"><span class="recipe-title">Italian Garlic Chicken Meatballs with Creamy Bowties</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/jalapeño-chicken-with-bell-peppers.html"><img src="images/jalapeño-chicken-with-bell-peppers.jpg" alt="Jalapeño Chicken with Bell Peppers"><span class="recipe-title">Jalapeño Chicken with Bell Peppers</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/king-ranch-chicken.html"><img src="images/king-ranch-chicken.jpg" alt="King Ranch Chicken"><span class="recipe-title">King Ranch Chicken</span></a></div>

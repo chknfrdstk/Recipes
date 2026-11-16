@@ -6,6 +6,11 @@ Personal recipes, in Markdown — organised by protein, with photos committed in
 
 ## Changelog
 
+### November 16, 2026 — Honey Lime Chicken Bowls added
+
+- **Honey Lime Chicken Bowls with Creamy Cilantro Lime Drizzle** — new chicken recipe from TikTok [@the__crave](https://www.tiktok.com/@the__crave/photo/7694899555892088077), serves 4, made with chicken thighs (Matthew's swap from the original breasts). Photo is a web-sourced stand-in (chefwatermelon.com), credited in the `.md` — it also shows black beans, which this recipe doesn't call for.
+- **Counts** — Chicken 61 → 62, repo total 171 → 172.
+
 ### November 16, 2026 — Per-section favicons
 
 - **Tab icon per protein section** — each section now shows its own home-page tile emoji in the browser tab: beef 🥩, chicken 🍗, pork 🐷, seafood 🦐, soups 🍲, sides 🥗, sauce 🫙, no-meat 🥦, desserts 🍰. Home page and other pages get 🍽️.
