@@ -13,3 +13,9 @@
 <div class="card"><a href="no-meat/"><span class="card-emoji">🥦</span><span class="card-title">No Meat</span><span class="card-count">7 recipes</span></a></div>
 <div class="card"><a href="desserts/"><span class="card-emoji">🍰</span><span class="card-title">Desserts</span><span class="card-count">3 recipes</span></a></div>
 </div>
+
+## ✨ Recently added
+
+<div class="card-grid">
+<div class="card"><a href="https://chknfrdstk.github.io/Recipes/chicken/honey-lime-chicken-bowls.html"><span class="card-emoji">🍗</span><span class="card-title">Honey Lime Chicken Bowls with Creamy Cilantro Lime Drizzle</span><span class="card-count">Added November 16, 2026</span></a></div>
+</div>

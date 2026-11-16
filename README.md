@@ -6,6 +6,12 @@ Personal recipes, in Markdown — organised by protein, with photos committed in
 
 ## Changelog
 
+### November 16, 2026 — Site navigation and new-recipe highlights
+
+- **Site nav on every page** — a sticky section nav (Home + all 9 protein sections, with the current section highlighted) now sits under the header on every page, via a `_layouts/default.html` override of the Midnight theme — the theme layout itself has no section navigation, so a soup recipe page previously took many back-clicks to reach another section. Links are absolute GitHub Pages URLs. Nav styles in `assets/css/style.scss` (`.site-nav`).
+- **Recently added on the home page** — a new "✨ Recently added" section under the protein cards, starting with Honey Lime Chicken Bowls (added November 16, 2026). A recipe counts as "new" for 30 days after being added.
+- **✨ New badge** — the Honey Lime Chicken Bowls card on the Chicken index now carries a "✨ New" pill badge (`.new-badge` in the CSS).
+
 ### November 16, 2026 — Honey Lime Chicken Bowls added
 
 - **Honey Lime Chicken Bowls with Creamy Cilantro Lime Drizzle** — new chicken recipe from TikTok [@the__crave](https://www.tiktok.com/@the__crave/photo/7694899555892088077), serves 4, made with chicken thighs (Matthew's swap from the original breasts). Photo is a web-sourced stand-in (chefwatermelon.com), credited in the `.md` — it also shows black beans, which this recipe doesn't call for.

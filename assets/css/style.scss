@@ -210,3 +210,51 @@ code {
 @media (max-width: 600px) {
   .recipe-grid { grid-template-columns: 1fr; }
 }
+
+/* Site nav — section links on every page */
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.5rem 0.75rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin: 0 0 1.5rem 0;
+}
+
+.site-nav a {
+  color: var(--text-muted) !important;
+  padding: 0.35rem 0.6rem;
+  border-radius: 8px;
+  text-decoration: none !important;
+}
+
+.site-nav a:hover {
+  color: var(--text) !important;
+  background: var(--bg-card);
+  text-decoration: none !important;
+}
+
+.site-nav a.active {
+  color: var(--accent) !important;
+  background: var(--bg-card);
+  font-weight: 700;
+}
+
+/* New-recipe badge (sits under the card title — .recipe-title is display:block) */
+.new-badge {
+  display: block;
+  width: fit-content;
+  margin: 0.35rem auto 0.75rem auto;
+  background: var(--accent);
+  color: #0d1117;
+  font-weight: 700;
+  font-size: 0.7rem;
+  border-radius: 999px;
+  padding: 0.15rem 0.5rem;
+  white-space: nowrap;
+}
