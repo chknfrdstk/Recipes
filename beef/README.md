@@ -1,6 +1,6 @@
 # Beef Recipes
 
-22 recipes.
+23 recipes.
 
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/barbacoa-beef-tacos.html"><img src="images/barbacoa-beef-tacos.jpg" alt="Barbacoa Beef Tacos"><span class="recipe-title">Barbacoa Beef Tacos</span></a></div>
@@ -8,6 +8,7 @@
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/beef-pasta-in-a-creamy-garlic-sauce.html"><img src="images/beef-pasta-in-a-creamy-garlic-sauce.jpg" alt="Beef Pasta in a Creamy Garlic Sauce"><span class="recipe-title">Beef Pasta in a Creamy Garlic Sauce</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/beijing-beef.html"><img src="images/beijing-beef.jpg" alt="Beijing Beef"><span class="recipe-title">Beijing Beef</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/caldillo-de-chile-verde.html"><img src="images/caldillo-de-chile-verde.jpg" alt="Caldillo de Chile Verde"><span class="recipe-title">Caldillo de Chile Verde</span></a></div>
+<div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/chili-oil-cabbage.html"><img src="https://chknfrdstk.github.io/Recipes/beef/images/chili-oil-cabbage.jpg" alt="Chili Oil Cabbage"><span class="recipe-title">Chili Oil Cabbage</span><span class="new-badge">✨ New</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/chinese-beef-and-mushroom-stir-fry.html"><img src="images/chinese-beef-and-mushroom-stir-fry.jpg" alt="Chinese Beef and Mushroom Stir Fry"><span class="recipe-title">Chinese Beef and Mushroom Stir Fry</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/coconut-red-curry-drip-beef.html"><img src="images/coconut-red-curry-drip-beef.jpg" alt="Coconut Red Curry Drip Beef"><span class="recipe-title">Coconut Red Curry Drip Beef</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/cowboy-stew.html"><img src="images/cowboy-stew.jpg" alt="Cowboy Stew"><span class="recipe-title">Cowboy Stew</span></a></div>
