@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- 1 ½ Ibs boneless skinless chicken thighs, diced
+- 1 ½ lbs boneless skinless chicken thighs, diced
 - 1 tsp kosher salt
 - 1 tsp smoked paprika
 - 1 tsp dried oregano

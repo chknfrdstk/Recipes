@@ -6,7 +6,7 @@
 
 ### Chicken
 
-- 1 lb boneless skinless chicken thighs cut into bite size pieces
+- 1 lb boneless skinless chicken thighs cut into bite-sized pieces
 - 2 tbsp olive oil
 - 2 tbsp butter
 - 3 cloves garlic minced

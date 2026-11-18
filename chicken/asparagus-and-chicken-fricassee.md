@@ -9,7 +9,7 @@
 - 1/4 cup chopped onions
 - 8oz sliced mushrooms
 - 2 cloves minced garlic
-- 1/2 cup chicken brooth
+- 1/2 cup chicken broth
 - 1 bunch asparagus cut into 1/2" pieces
 
 ## Instructions
@@ -20,7 +20,7 @@
 4. Saute onions until translucent.
 5. Stir in mushrooms and cook until golden.
 6. Add garlic.
-7. Pour in chicken brooth and simmer until reduced by half.
+7. Pour in chicken broth and simmer until reduced by half.
 8. Stir in asparagus and cook until tender.
 9. Return chicken to the skillet and heat through.
 

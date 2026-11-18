@@ -23,7 +23,7 @@
 
 ## Instructions
 
-1. In a large pot, heat the olive oil over medium heat. Add the chicken, salt and pepper. Sauté until the chicken is browned and mostly cooked through. Remove and west aside.
+1. In a large pot, heat the olive oil over medium heat. Add the chicken, salt and pepper. Sauté until the chicken is browned and mostly cooked through. Remove and set aside.
 2. Add the garlic, onion, bell pepper and zucchini and sauté for 2-3 minutes. Add the red curry paste and ginger. Sauté until fragrant.
 3. Add the chicken back to the pot.
 4. Add the broth and rice noodles to the pot and bring to a boil, then reduce heat to medium until the noodles are al dente.

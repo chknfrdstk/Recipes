@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- 3 Ibs beef chuck roast or brisket
+- 3 lbs beef chuck roast or brisket
 - 4 dried guajillo chiles, stems and seeds removed
 - 2 dried ancho chiles, stems and seeds removed
 - 1 onion, chopped

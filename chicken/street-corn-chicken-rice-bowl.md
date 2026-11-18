@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-- 1 lb boneless skinless chicken thighs cut into bite sized pieces
+- 1 lb boneless skinless chicken thighs cut into bite-sized pieces
 - 1 tbsp olive oil
 - 1 tsp smoked paprika
 - 1/2 tsp cumin

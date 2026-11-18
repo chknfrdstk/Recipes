@@ -5,7 +5,7 @@
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/chili-garlic-oil.html"><img src="images/chili-garlic-oil.jpg" alt="Chili Garlic Oil"><span class="recipe-title">Chili Garlic Oil</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/chunky-dumpling-sauce.html"><img src="images/chunky-dumpling-sauce.jpg" alt="Chunky Dumpling Sauce"><span class="recipe-title">Chunky Dumpling Sauce</span></a></div>
-<div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/cilantro-lime-avacodo-salsa.html"><img src="images/cilantro-lime-avacodo-salsa.jpg" alt="Cilantro Lime Avacodo Salsa"><span class="recipe-title">Cilantro Lime Avacodo Salsa</span></a></div>
+<div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/cilantro-lime-avocado-salsa.html"><img src="images/cilantro-lime-avocado-salsa.jpg" alt="Cilantro Lime Avocado Salsa"><span class="recipe-title">Cilantro Lime Avocado Salsa</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/dumpling-sauce.html"><img src="images/dumpling-sauce.jpg" alt="Dumpling Sauce"><span class="recipe-title">Dumpling Sauce</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/hot-honey-ranch.html"><img src="images/hot-honey-ranch.jpg" alt="Hot Honey Ranch"><span class="recipe-title">Hot Honey Ranch</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/korean-sauce.html"><img src="images/korean-sauce.jpg" alt="Korean Sauce"><span class="recipe-title">Korean Sauce</span></a></div>

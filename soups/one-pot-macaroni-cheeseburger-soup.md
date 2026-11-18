@@ -6,7 +6,7 @@
 
 - 1 lb ground beef
 - 1 medium onion diced
-- 2 coups beef broth
+- 2 cups beef broth
 - 2 cups elbow macaroni
 - 1 cup shredded cheddar cheese
 - 1 cup milk

@@ -10,7 +10,7 @@
 - 3 cloves garlic minced
 - 1 can (15 oz) corn drained
 - 1 can (15 oz) black beans drained and rinsed
-- 1 can (14.5 oz) diced tomatoes with green chilies
+- 1 can Rotel tomatoes
 - 4 cups chicken broth
 - 1 tsp ground cumin
 - 1 tsp chili powder
