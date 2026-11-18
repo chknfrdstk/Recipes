@@ -10,3 +10,15 @@
 </div>
 
 - [Back to all recipes](https://chknfrdstk.github.io/Recipes/)
+
+## Folder structure
+
+```
+sides/
+├── README.md
+├── ceviche.md
+├── creamed-spinach-bacon-and-mushrooms.md
+└── images/
+    ├── ceviche.jpg
+    └── creamed-spinach-bacon-and-mushrooms.jpg
+```
