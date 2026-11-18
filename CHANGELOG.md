@@ -2,6 +2,10 @@
 
 Recipes change history. Newest first.
 
+### November 17, 2026 — Protein folder READMEs decluttered
+
+- The photo cards moved out of the protein folder READMEs into a new `index.md` in each folder, which is now the page the website builds — the site keeps its cards and search box, unchanged. Each README is now light: a short note, a link to the folder's `images/` folder, and the folder structure tree, so browsing the repo no longer loads every photo.
+
 ### November 17, 2026 — Directory trees in the protein folder READMEs
 
 - Each protein folder's README now ends with a "Folder structure" section: a plain ASCII directory tree of that folder, relative to the folder itself (recipe files, the `images/` folder with one photo per recipe, and the README).
