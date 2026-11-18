@@ -36,15 +36,23 @@ Recipes/
 ├── README.md
 ├── _config.yml
 ├── index.md
+├── scripts/
+│ ├── aliases.json
+│ └── build-search-index.py
 ├── _includes/
-│ └── head-custom.html
+│ ├── head-custom.html
+│ └── search-box.html
 ├── _layouts/
 │ └── default.html
 ├── assets/
 │ ├── css/
 │ │ └── style.scss
-│ └── icons/
-│ └── *.png (20 section favicons)
+│ ├── data/
+│ │ └── recipes.json (generated)
+│ ├── icons/
+│ │ └── *.png (20 section favicons)
+│ └── js/
+│ └── search.js
 ├── beef/ (23 recipes)
 │ ├── README.md
 │ ├── images/
@@ -85,7 +93,7 @@ Recipes/
 
 ## Adding a recipe
 
-Add the `.md` file and its photo, add a photo card to the folder's `README.md` (in alphabetical order), bump the counts in the folder README and the home page, and add a [CHANGELOG.md](CHANGELOG.md) entry in the same commit.
+Add the `.md` file and its photo, add a photo card to the folder's `README.md` (in alphabetical order), bump the counts in the folder README and the home page, rebuild the search index with `python3 scripts/build-search-index.py`, and add a [CHANGELOG.md](CHANGELOG.md) entry in the same commit.
 
 ## Workflow
 

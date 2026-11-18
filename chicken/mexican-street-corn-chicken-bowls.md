@@ -23,7 +23,7 @@
 - 1/3 cup mayo
 - 2 tbsp fresh chopped cilantro
 - 2 tbsp lime juice
-- 1/2 tbsp minced carlic
+- 1/2 tbsp minced garlic
 - 1/2 tsp chili powder
 - 1/4 tsp paprika
 - 1/4 tsp salt

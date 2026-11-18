@@ -2,6 +2,8 @@
 
 62 recipes.
 
+{% include search-box.html %}
+
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/asparagus-and-chicken-fricassee.html"><img src="images/asparagus-and-chicken-fricassee.jpg" alt="Asparagus and Chicken Fricassee"><span class="recipe-title">Asparagus and Chicken Fricassee</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/chicken/bang-bang-chicken-skewers.html"><img src="images/bang-bang-chicken-skewers.jpg" alt="Bang Bang Chicken Skewers"><span class="recipe-title">Bang Bang Chicken Skewers</span></a></div>

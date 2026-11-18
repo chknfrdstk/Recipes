@@ -12,7 +12,7 @@
 - 1/4 cup soy sauce
 - 2 tbsp balsamic vinegar
 - 1/2 tsp red pepper flakes
-- 1/4 cup fresh basal chopped
+- 1/4 cup fresh basil chopped
 - 1/4 cup grated Parmesan cheese
 - Salt and pepper to taste
 
@@ -24,7 +24,7 @@
 4. Pour in the white wine or chicken broth, soy sauce and balsamic vinegar. Stir to combine and let it simmer for 2-3 minutes.
 5. Add the cooked noodles to the skillet and toss to combine.
 6. Stir in the red pepper flakes and season with salt and pepper to taste.
-7. Remove from the heat. Stir in the fresh basal leaves and grated Parmesan cheese.
-8. Serve immediately, garnished with basal leaves and grated Parmesan cheese.
+7. Remove from the heat. Stir in the fresh basil leaves and grated Parmesan cheese.
+8. Serve immediately, garnished with basil leaves and grated Parmesan cheese.
 
 *Photo: Insanely Good Recipes — [Italian Drunken Noodles](https://insanelygoodrecipes.com/italian-drunken-noodles/)*

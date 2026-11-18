@@ -2,6 +2,8 @@
 
 43 recipes.
 
+{% include search-box.html %}
+
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/soups/bacon-cabbage-and-potato-soup.html"><img src="images/bacon-cabbage-and-potato-soup.jpg" alt="Bacon Cabbage and Potato Soup"><span class="recipe-title">Bacon Cabbage and Potato Soup</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/soups/bacon-cheeseburger-soup.html"><img src="images/bacon-cheeseburger-soup.jpg" alt="Bacon Cheeseburger Soup"><span class="recipe-title">Bacon Cheeseburger Soup</span></a></div>

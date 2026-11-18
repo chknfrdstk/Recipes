@@ -2,6 +2,8 @@
 
 23 recipes.
 
+{% include search-box.html %}
+
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/barbacoa-beef-tacos.html"><img src="images/barbacoa-beef-tacos.jpg" alt="Barbacoa Beef Tacos"><span class="recipe-title">Barbacoa Beef Tacos</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/beef/beef-and-parmesan-tortellini-in-creamy-sauce.html"><img src="images/beef-and-parmesan-tortellini-in-creamy-sauce.jpg" alt="Beef and Parmesan Tortellini in Creamy Sauce"><span class="recipe-title">Beef and Parmesan Tortellini in Creamy Sauce</span></a></div>
