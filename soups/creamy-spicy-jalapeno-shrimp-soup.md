@@ -1,6 +1,6 @@
 # Creamy Spicy Jalapeño Shrimp Soup
 
-<img width="600" src="images/creamy-spicy-jalapeño-shrimp-soup.jpg" alt="Creamy Spicy Jalapeño Shrimp Soup">
+<img width="600" src="images/creamy-spicy-jalapeno-shrimp-soup.jpg" alt="Creamy Spicy Jalapeño Shrimp Soup">
 
 ## Ingredients
 
