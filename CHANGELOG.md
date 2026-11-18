@@ -10,6 +10,7 @@ Recipes change history. Newest first.
 - **How it works** — `assets/js/search.js` loads the index once and renders photo-card results reusing the `.recipe-card` styling; the layout loads Fuse.js and `search.js` site-wide.
 - **Why** — the same index powers the planned fridge matcher and serving scaler next.
 - **Placement** — the home-page search box now sits above the section cards, in the same spot as on the protein pages.
+- **Results** — the search now shows every match, best first (the 12-result cap is gone, so a broad query like "chiken" lists all 79 chicken recipes).
 
 ### November 17, 2026 — Recipe data cleanups and repo structure diagram
 
