@@ -9,6 +9,7 @@ Recipes change history. Newest first.
 - **Typos fixed for the index** — `basal` → `basil` (Italian Drunken Noodles, 3 spots), `carlic` → `garlic` (Mexican Street Corn Chicken Bowls), and `corn starch` now maps to `cornstarch` in the alias file.
 - **How it works** — `assets/js/search.js` loads the index once and renders photo-card results reusing the `.recipe-card` styling; the layout loads Fuse.js and `search.js` site-wide.
 - **Why** — the same index powers the planned fridge matcher and serving scaler next.
+- **Placement** — the home-page search box now sits above the section cards, in the same spot as on the protein pages.
 
 ### November 17, 2026 — Recipe data cleanups and repo structure diagram
 
