@@ -11,7 +11,7 @@ Recipes change history. Newest first.
 - **Why** — the same index powers the planned fridge matcher and serving scaler next.
 - **Placement** — the home-page search box now sits above the section cards, in the same spot as on the protein pages.
 - **Results** — the search now shows every match, best first (the 12-result cap is gone, so a broad query like "chiken" lists all 79 chicken recipes).
-- **Photo fix** — two soup photos were named with a ñ (jalapeño) while their recipe slugs use plain n (jalapeno), so the search cards asked for a file that did not exist; renamed the photos to plain n and updated the two recipe pages and the soups index to match (Spicy Jalapeño Popper Chicken Soup, Creamy Spicy Jalapeño Shrimp Soup).
+- **Photo fix** — two soup photos were named with a ñ (jalapeño) while their recipe slugs use plain n (jalapeno), so the search cards asked for a file that did not exist; renamed the photos to plain n and updated the two recipe pages and the soups index to match (Spicy Jalapeño Popper Chicken Soup, Creamy Spicy Jalapeño Shrimp Soup — and the Smokey Jalapeño Popper Meatloaf had the same problem, fixed the same way).
 
 ### November 17, 2026 — Recipe data cleanups and repo structure diagram
 
