@@ -2,6 +2,8 @@
 
 7 recipes.
 
+{% include search-box.html %}
+
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/no-meat/baked-spinach-mushroom-quesadillas.html"><img src="images/baked-spinach-mushroom-quesadillas.jpg" alt="Baked Spinach Mushroom Quesadillas"><span class="recipe-title">Baked Spinach Mushroom Quesadillas</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/no-meat/cilantro-lime-noodles.html"><img src="images/cilantro-lime-noodles.jpg" alt="Cilantro Lime Noodles"><span class="recipe-title">Cilantro Lime Noodles</span></a></div>

@@ -2,6 +2,14 @@
 
 Recipes change history. Newest first.
 
+### November 17, 2026 — Fuzzy search on the home and protein pages
+
+- **Search box** — a "🔍 Search recipes…" box on the home page and all nine protein pages, live results as you type, typo-tolerant (Fuse.js 6.6.2 via CDN). Searches recipe titles and normalized ingredient cores, so "scallion" finds recipes listing green onions and "chiken" still finds the chicken recipes.
+- **Search index** — `scripts/build-search-index.py` reads every recipe and writes `assets/data/recipes.json` (173 recipes, 493 distinct ingredient cores), with a curated alias map in `scripts/aliases.json` (stock is canonical over broth; scallions → green onion; Rotel, andouille sausage, bowtie pasta, and more).
+- **Typos fixed for the index** — `basal` → `basil` (Italian Drunken Noodles, 3 spots), `carlic` → `garlic` (Mexican Street Corn Chicken Bowls), and `corn starch` now maps to `cornstarch` in the alias file.
+- **How it works** — `assets/js/search.js` loads the index once and renders photo-card results reusing the `.recipe-card` styling; the layout loads Fuse.js and `search.js` site-wide.
+- **Why** — the same index powers the planned fridge matcher and serving scaler next.
+
 ### November 17, 2026 — Recipe data cleanups and repo structure diagram
 
 - **Typos fixed** — `Ibs` → `lbs` (4 lines), `brooth` → `broth` (chicken fricassee), `jucies` → `juices`, `west aside` → `set aside`, `Retune` → `Return`, `coups` → `cups`.

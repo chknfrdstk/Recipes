@@ -2,6 +2,8 @@
 
 11 recipes.
 
+{% include search-box.html %}
+
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/chili-garlic-oil.html"><img src="images/chili-garlic-oil.jpg" alt="Chili Garlic Oil"><span class="recipe-title">Chili Garlic Oil</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/sauce/chunky-dumpling-sauce.html"><img src="images/chunky-dumpling-sauce.jpg" alt="Chunky Dumpling Sauce"><span class="recipe-title">Chunky Dumpling Sauce</span></a></div>

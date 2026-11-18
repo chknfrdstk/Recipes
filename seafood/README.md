@@ -2,6 +2,8 @@
 
 14 recipes.
 
+{% include search-box.html %}
+
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/seafood/coconut-lime-fish-curry-with-jasmine-rice.html"><img src="images/coconut-lime-fish-curry-with-jasmine-rice.jpg" alt="Coconut Lime Fish Curry with Jasmine Rice"><span class="recipe-title">Coconut Lime Fish Curry with Jasmine Rice</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/seafood/coconut-lime-fish-with-avocado-salsa.html"><img src="images/coconut-lime-fish-with-avocado-salsa.jpg" alt="Coconut Lime Fish with Avocado Salsa"><span class="recipe-title">Coconut Lime Fish with Avocado Salsa</span></a></div>

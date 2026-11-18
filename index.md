@@ -14,6 +14,8 @@
 <div class="card"><a href="desserts/"><span class="card-emoji">🍰</span><span class="card-title">Desserts</span><span class="card-count">3 recipes</span></a></div>
 </div>
 
+{% include search-box.html %}
+
 ## ✨ Recently added
 
 <div class="card-grid">

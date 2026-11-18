@@ -258,3 +258,40 @@ code {
   padding: 0.15rem 0.5rem;
   white-space: nowrap;
 }
+
+/* Fuzzy search box (home + protein pages) */
+.search-box {
+  margin: 1.5rem 0 0.5rem 0;
+}
+
+.search-box input[type="search"] {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1.05rem;
+  font-family: inherit;
+  background: var(--bg-card);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.search-box input[type="search"]:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.search-box input[type="search"]::placeholder {
+  color: var(--text-muted);
+}
+
+.search-hint {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin: 0.5rem 0 0 0;
+}
+
+.search-status {
+  color: var(--text-muted);
+  grid-column: 1 / -1;
+  margin: 0;
+}

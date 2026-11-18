@@ -2,6 +2,8 @@
 
 8 recipes.
 
+{% include search-box.html %}
+
 <div class="recipe-grid">
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/pork/cheesy-smoked-sausage-and-cabbage-casserole.html"><img src="images/cheesy-smoked-sausage-and-cabbage-casserole.jpg" alt="Cheesy Smoked Sausage and Cabbage Casserole"><span class="recipe-title">Cheesy Smoked Sausage and Cabbage Casserole</span></a></div>
 <div class="recipe-card"><a href="https://chknfrdstk.github.io/Recipes/pork/egg-roll-in-a-bowl.html"><img src="images/egg-roll-in-a-bowl.jpg" alt="Egg Roll in a Bowl"><span class="recipe-title">Egg Roll in a Bowl</span></a></div>
