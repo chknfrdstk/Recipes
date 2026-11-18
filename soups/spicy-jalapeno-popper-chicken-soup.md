@@ -1,6 +1,6 @@
 # Spicy Jalapeño Popper Chicken Soup
 
-<img width="600" src="images/spicy-jalapeño-popper-chicken-soup.jpg" alt="Spicy Jalapeño Popper Chicken Soup">
+<img width="600" src="images/spicy-jalapeno-popper-chicken-soup.jpg" alt="Spicy Jalapeño Popper Chicken Soup">
 
 ## Ingredients
 
