@@ -16,3 +16,27 @@
 </div>
 
 - [Back to all recipes](https://chknfrdstk.github.io/Recipes/)
+
+## Folder structure
+
+```
+pork/
+├── README.md
+├── cheesy-smoked-sausage-and-cabbage-casserole.md
+├── egg-roll-in-a-bowl.md
+├── garlic-butter-sausage-fettuccine-pasta.md
+├── honey-garlic-pork-tenderloin.md
+├── images/
+│   ├── cheesy-smoked-sausage-and-cabbage-casserole.jpg
+│   ├── egg-roll-in-a-bowl.jpg
+│   ├── garlic-butter-sausage-fettuccine-pasta.jpg
+│   ├── honey-garlic-pork-tenderloin.jpg
+│   ├── jerk-pork-pineapple-salsa-and-coconut-rice-bowls-with-caribbean-aioli.jpg
+│   ├── lemon-basil-sausage-bowtie-pasta-with-garlic-ricotta-sauce.jpg
+│   ├── pork-schnitzel-with-dijon-gravy.jpg
+│   └── slow-cooker-thai-peanut-pork.jpg
+├── jerk-pork-pineapple-salsa-and-coconut-rice-bowls-with-caribbean-aioli.md
+├── lemon-basil-sausage-bowtie-pasta-with-garlic-ricotta-sauce.md
+├── pork-schnitzel-with-dijon-gravy.md
+└── slow-cooker-thai-peanut-pork.md
+```

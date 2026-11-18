@@ -2,6 +2,10 @@
 
 Recipes change history. Newest first.
 
+### November 17, 2026 — Directory trees in the protein folder READMEs
+
+- Each protein folder's README now ends with a "Folder structure" section: a plain ASCII directory tree of that folder, relative to the folder itself (recipe files, the `images/` folder with one photo per recipe, and the README).
+
 ### November 17, 2026 — Fuzzy search on the home and protein pages
 
 - **Search box** — a "🔍 Search recipes…" box on the home page and all nine protein pages, live results as you type, typo-tolerant (Fuse.js 6.6.2 via CDN). Searches recipe titles and normalized ingredient cores, so "scallion" finds recipes listing green onions and "chiken" still finds the chicken recipes.

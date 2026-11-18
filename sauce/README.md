@@ -19,3 +19,33 @@
 </div>
 
 - [Back to all recipes](https://chknfrdstk.github.io/Recipes/)
+
+## Folder structure
+
+```
+sauce/
+├── README.md
+├── chili-garlic-oil.md
+├── chunky-dumpling-sauce.md
+├── cilantro-lime-avocado-salsa.md
+├── dumpling-sauce.md
+├── hot-honey-ranch.md
+├── images/
+│   ├── chili-garlic-oil.jpg
+│   ├── chunky-dumpling-sauce.jpg
+│   ├── cilantro-lime-avocado-salsa.jpg
+│   ├── dumpling-sauce.jpg
+│   ├── hot-honey-ranch.jpg
+│   ├── korean-sauce.jpg
+│   ├── lemon-herb-aioli.jpg
+│   ├── ranch.jpg
+│   ├── vietnamese-fish-sauce-recipe-nuoc-cham.jpg
+│   ├── wing-stop-ranch.jpg
+│   └── zesty-chili-lime-marinade.jpg
+├── korean-sauce.md
+├── lemon-herb-aioli.md
+├── ranch.md
+├── vietnamese-fish-sauce-recipe-nuoc-cham.md
+├── wing-stop-ranch.md
+└── zesty-chili-lime-marinade.md
+```

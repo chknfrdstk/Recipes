@@ -11,3 +11,17 @@
 </div>
 
 - [Back to all recipes](https://chknfrdstk.github.io/Recipes/)
+
+## Folder structure
+
+```
+desserts/
+├── README.md
+├── buttermilk-pie.md
+├── images/
+│   ├── buttermilk-pie.jpg
+│   ├── peanut-butter-cream-pie.jpg
+│   └── sweet-potato-pie.jpg
+├── peanut-butter-cream-pie.md
+└── sweet-potato-pie.md
+```
