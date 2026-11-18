@@ -2,6 +2,8 @@
 
 173 recipes, organised by protein. Pick one to see what's in it.
 
+{% include search-box.html %}
+
 <div class="card-grid">
 <div class="card"><a href="beef/"><span class="card-emoji">🥩</span><span class="card-title">Beef</span><span class="card-count">23 recipes</span></a></div>
 <div class="card"><a href="chicken/"><span class="card-emoji">🍗</span><span class="card-title">Chicken</span><span class="card-count">62 recipes</span></a></div>
@@ -13,8 +15,6 @@
 <div class="card"><a href="no-meat/"><span class="card-emoji">🥦</span><span class="card-title">No Meat</span><span class="card-count">7 recipes</span></a></div>
 <div class="card"><a href="desserts/"><span class="card-emoji">🍰</span><span class="card-title">Desserts</span><span class="card-count">3 recipes</span></a></div>
 </div>
-
-{% include search-box.html %}
 
 ## ✨ Recently added
 
