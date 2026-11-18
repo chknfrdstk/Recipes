@@ -11,7 +11,7 @@
 - 1 packet taco seasoning
 - 2 cans pinto beans drained and rinsed
 - 1 can corn drained
-- 1 can diced tomatoes with green chilis
+- 1 can Rotel tomatoes
 - 4 cups beef broth
 - 1 cup heavy cream
 - 1 cup shredded Mexican blend cheese

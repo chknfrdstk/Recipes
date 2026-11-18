@@ -2,6 +2,16 @@
 
 Recipes change history. Newest first.
 
+### November 17, 2026 — Recipe data cleanups and repo structure diagram
+
+- **Typos fixed** — `Ibs` → `lbs` (4 lines), `brooth` → `broth` (chicken fricassee), `jucies` → `juices`, `west aside` → `set aside`, `Retune` → `Return`, `coups` → `cups`.
+- **Filename typos fixed** — `Spinich` → `Spinach` (recipe, photo, and card) and `Avacodo` → `Avocado` (sauce recipe, photo, and card).
+- **Canonical spellings** — `bite-sized` everywhere (3 lines), and every "diced tomatoes with green chilies" line is now `1 can Rotel tomatoes` (6 lines).
+- **Mashed ingredient lines split** — three lines that crammed two ingredients into one are now two lines each (beef tortellini, creamed spinach ×2, with Parmesan at 1/4 cup per the source recipe).
+- **Repo structure diagram** — the README now has an ASCII tree of the repo layout.
+- **Fideo rebuilt** — the truncated Fideo with Potatoes and Ground Beef (3 ingredients, no method) is now a full recipe from the One Day Cooking source, with ground beef and 2 tbsp garlic.
+- **Why** — these cleanups prepare the ingredient data for the planned fuzzy search and ingredient matcher.
+
 ### November 16, 2026 — Chili Oil Cabbage added
 
 - **Chili Oil Cabbage** — new beef recipe from a Low Carb Love Facebook reel, one-skillet ground beef and cabbage with bell peppers, coconut aminos, ponzu sauce, and chili oil. Photo is a web-sourced stand-in (madebypenelope.com), credited in the `.md`.

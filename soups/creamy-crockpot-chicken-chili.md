@@ -7,7 +7,7 @@
 - 2 lbs boneless skinless chicken thighs
 - 1 can pinto beans drained and rinsed
 - 1 can corn drained
-- 1 can diced tomatoes with green chilies
+- 1 can Rotel tomatoes
 - 1 small onion chopped
 - 1 packet ranch seasoning
 - 1 tbsp chili powder

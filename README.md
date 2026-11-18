@@ -28,6 +28,61 @@ Live site: https://chknfrdstk.github.io/Recipes/ — Forgejo is home, GitHub is 
 - Each recipe's photo lives in the folder's `images/` as `<slug>.jpg` and is linked in the `.md` at 600px wide.
 - The source is credited as the last line of each recipe file.
 
+## Repo structure
+
+```
+Recipes/
+├── CHANGELOG.md
+├── README.md
+├── _config.yml
+├── index.md
+├── _includes/
+│ └── head-custom.html
+├── _layouts/
+│ └── default.html
+├── assets/
+│ ├── css/
+│ │ └── style.scss
+│ └── icons/
+│ └── *.png (20 section favicons)
+├── beef/ (23 recipes)
+│ ├── README.md
+│ ├── images/
+│ └── *.md
+├── chicken/ (62 recipes)
+│ ├── README.md
+│ ├── images/
+│ └── *.md
+├── pork/ (8 recipes)
+│ ├── README.md
+│ ├── images/
+│ └── *.md
+├── seafood/ (14 recipes)
+│ ├── README.md
+│ ├── images/
+│ └── *.md
+├── soups/ (43 recipes)
+│ ├── README.md
+│ ├── images/
+│ └── *.md
+├── sides/ (2 recipes)
+│ ├── README.md
+│ ├── images/
+│ └── *.md
+├── sauce/ (11 recipes)
+│ ├── README.md
+│ ├── images/
+│ └── *.md
+├── no-meat/ (7 recipes)
+│ ├── README.md
+│ ├── images/
+│ └── *.md
+└── desserts/ (3 recipes)
+    ├── README.md
+    ├── images/
+    └── *.md
+```
+
 ## Adding a recipe
 
 Add the `.md` file and its photo, add a photo card to the folder's `README.md` (in alphabetical order), bump the counts in the folder README and the home page, and add a [CHANGELOG.md](CHANGELOG.md) entry in the same commit.

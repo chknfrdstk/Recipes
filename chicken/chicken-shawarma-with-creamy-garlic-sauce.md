@@ -6,7 +6,7 @@
 
 ### For the Chicken
 
-- 2 Ibs boneless, skinless chicken thighs
+- 2 lbs boneless, skinless chicken thighs
 - 1 tsp ground cumin
 - 1 tsp ground coriander
 - 1 tsp paprika

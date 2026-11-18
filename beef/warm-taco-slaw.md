@@ -6,7 +6,7 @@
 
 - 1 lb ground beef
 - 4 tbsp taco seasoning
-- 1 (10 oz) can diced tomatoes and green chilies, with juices
+- 1 can Rotel tomatoes
 - 1 (16 oz) bag coleslaw mix
 - 1⁄2 cup sliced black olives
 - salt to taste

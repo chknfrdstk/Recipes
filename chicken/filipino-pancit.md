@@ -6,7 +6,7 @@
 
 - 1 pkg (8.8 ounces) Thai vermicelli rice noodles
 - 2 tbsp canola oil
-- 1 lb chicken thighs cut into bite size pieces
+- 1 lb chicken thighs cut into bite-sized pieces
 - 1 yellow onion diced
 - 6 cloves garlic minced
 - 2 tbsp soy sauce

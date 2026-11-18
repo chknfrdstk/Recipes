@@ -5,12 +5,13 @@
 
 - 4 slices of bacon chopped
 - 1 tbsp butter
-- 1/2 cups beef broth onion finely chopped
+- 1 onion, finely chopped
 - 2 cloves garlic minced
 - 8 oz mushrooms sliced
 - 10 oz fresh spinach chopped
 - 1 cup heavy cream
-- 1/2 cups beef broth grated Parmesan cheese
+- 1/2 cup beef broth
+- 1/4 cup grated Parmesan cheese
 - Salt and pepper to taste
 
 ## Instructions

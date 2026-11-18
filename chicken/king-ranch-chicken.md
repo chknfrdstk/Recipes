@@ -9,7 +9,7 @@
 - 1/2 cup yellow onion chopped
 - 1 can cream of chicken soup
 - 1 can cream of mushroom soup
-- 1 can diced tomatoes & green chilies undrained
+- 1 can Rotel tomatoes
 - 2 cups chopped cooked chicken breast
 - 12 corn tortillas torn cut into quarters
 - 2 cups shredded Cheddar cheese

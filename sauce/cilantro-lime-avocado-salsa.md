@@ -1,6 +1,6 @@
-# Cilantro Lime Avacodo Salsa
+# Cilantro Lime Avocado Salsa
 
-<img width="600" src="images/cilantro-lime-avacodo-salsa.jpg" alt="Cilantro Lime Avacodo Salsa">
+<img width="600" src="images/cilantro-lime-avocado-salsa.jpg" alt="Cilantro Lime Avocado Salsa">
 
 ## Ingredients
 

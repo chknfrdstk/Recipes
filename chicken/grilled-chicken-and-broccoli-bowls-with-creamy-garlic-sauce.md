@@ -6,7 +6,7 @@
 
 ### For the Chicken
 
-- 2 Ibs boneless, skinless chicken thighs
+- 2 lbs boneless, skinless chicken thighs
 - 1 tbsp olive oil
 - 1 tsp paprika
 - 1/2 tsp garlic powder

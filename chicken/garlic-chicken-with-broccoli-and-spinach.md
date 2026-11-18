@@ -1,6 +1,6 @@
-# Garlic Chicken with Broccoli and Spinich
+# Garlic Chicken with Broccoli and Spinach
 
-<img width="600" src="images/garlic-chicken-with-broccoli-and-spinich.jpg" alt="Garlic Chicken with Broccoli and Spinich">
+<img width="600" src="images/garlic-chicken-with-broccoli-and-spinach.jpg" alt="Garlic Chicken with Broccoli and Spinach">
 
 ## Ingredients
 
