@@ -13,7 +13,6 @@
 
   var SECTIONS = ['beef', 'chicken', 'pork', 'seafood', 'soups',
     'sides', 'sauce', 'no-meat', 'desserts'];
-  var RESULT_LIMIT = 12;
 
   // The site root, derived from the page URL so the same code works
   // on GitHub Pages (/Recipes/...) and Forgejo Pages
@@ -88,7 +87,7 @@
           resultsEl.innerHTML = '';
           return;
         }
-        render(fuse.search(query, { limit: RESULT_LIMIT }));
+        render(fuse.search(query)); // no limit — show every match, best first
       }, 150);
     });
   }
