@@ -2,6 +2,13 @@
 
 Recipes change history. Newest first.
 
+### November 18, 2026 — Bacon Hot Honey Brussels Sprouts
+
+- Added Bacon Hot Honey Brussels Sprouts to Sides (Sides 2 → 3 recipes, 173 → 174 total), from Sarah Kraffty's Instagram Thanksgiving series; photo from recipedelish.com, credited in the recipe file.
+- Card added to sides/index.md; sides/README.md count and Folder structure tree updated.
+- Search index rebuilt (assets/data/recipes.json) so fuzzy search finds the new recipe.
+- **Site footer** — every page now ends with a short collection note: the recipes are gathered from the cooks, creators, and websites Matthew enjoys, each page credits its original source when possible, and the collection is for personal use — “just sharing for the betterment of humanity.”
+
 ### November 17, 2026 — Protein folder READMEs decluttered
 
 - The photo cards moved out of the protein folder READMEs into a new `index.md` in each folder, which is now the page the website builds — the site keeps its cards and search box, unchanged. Each README is now light: a short note, a link to the folder's `images/` folder, and the folder structure tree, so browsing the repo no longer loads every photo.
