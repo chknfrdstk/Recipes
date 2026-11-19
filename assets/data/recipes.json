@@ -1612,6 +1612,13 @@
     ]
   },
   {
+    "slug": "beef/index",
+    "title": "Beef Recipes",
+    "section": "beef",
+    "path": "beef/index.md",
+    "ingredients": []
+  },
+  {
     "slug": "beef/meat-loaf",
     "title": "Meat Loaf",
     "section": "beef",
@@ -8589,6 +8596,13 @@
     ]
   },
   {
+    "slug": "chicken/index",
+    "title": "Chicken Recipes",
+    "section": "chicken",
+    "path": "chicken/index.md",
+    "ingredients": []
+  },
+  {
     "slug": "chicken/italian-garlic-chicken-meatballs-with-creamy-bowties",
     "title": "Italian Garlic Chicken Meatballs with Creamy Bowties",
     "section": "chicken",
@@ -12724,6 +12738,13 @@
     ]
   },
   {
+    "slug": "pork/index",
+    "title": "Pork Recipes",
+    "section": "pork",
+    "path": "pork/index.md",
+    "ingredients": []
+  },
+  {
     "slug": "pork/jerk-pork-pineapple-salsa-and-coconut-rice-bowls-with-caribbean-aioli",
     "title": "Jerk Pork, Pineapple Salsa, and Coconut Rice Bowls with Caribbean Aioli",
     "section": "pork",
@@ -14500,6 +14521,13 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "seafood/index",
+    "title": "Seafood Recipes",
+    "section": "seafood",
+    "path": "seafood/index.md",
+    "ingredients": []
   },
   {
     "slug": "seafood/louisiana-shrimp-and-sausage-pasta-bake",
@@ -19316,6 +19344,13 @@
     ]
   },
   {
+    "slug": "soups/index",
+    "title": "Soups Recipes",
+    "section": "soups",
+    "path": "soups/index.md",
+    "ingredients": []
+  },
+  {
     "slug": "soups/keto-unstuffed-cabbage-soup",
     "title": "Keto Unstuffed Cabbage Soup",
     "section": "soups",
@@ -21751,6 +21786,110 @@
     ]
   },
   {
+    "slug": "sides/bacon-hot-honey-brussels-sprouts",
+    "title": "Bacon Hot Honey Brussels Sprouts",
+    "section": "sides",
+    "path": "sides/bacon-hot-honey-brussels-sprouts.md",
+    "ingredients": [
+      {
+        "raw": "- 1.5 lbs Brussels sprouts",
+        "core": "brussels sprout",
+        "amount": 1.5,
+        "unit": "lbs",
+        "range": null,
+        "alternatives": [],
+        "flags": []
+      },
+      {
+        "raw": "- 7 slices bacon (or a whole package)",
+        "core": "bacon",
+        "amount": 7.0,
+        "unit": "slices",
+        "range": null,
+        "alternatives": [
+          "package"
+        ],
+        "flags": []
+      },
+      {
+        "raw": "- 1 tsp garlic salt",
+        "core": "garlic salt",
+        "amount": 1.0,
+        "unit": "tsp",
+        "range": null,
+        "alternatives": [],
+        "flags": []
+      },
+      {
+        "raw": "- 1 tsp onion butter seasoning or onion powder",
+        "core": "onion butter seasoning",
+        "amount": 1.0,
+        "unit": "tsp",
+        "range": null,
+        "alternatives": [
+          "onion powder"
+        ],
+        "flags": []
+      },
+      {
+        "raw": "- 1 tsp paprika",
+        "core": "paprika",
+        "amount": 1.0,
+        "unit": "tsp",
+        "range": null,
+        "alternatives": [],
+        "flags": []
+      },
+      {
+        "raw": "- 1/4 cup olive oil",
+        "core": "olive oil",
+        "amount": 0.25,
+        "unit": "cup",
+        "range": null,
+        "alternatives": [],
+        "flags": []
+      },
+      {
+        "raw": "- 1/2 tsp salt",
+        "core": "salt",
+        "amount": 0.5,
+        "unit": "tsp",
+        "range": null,
+        "alternatives": [],
+        "flags": []
+      },
+      {
+        "raw": "- 1/2 tsp black pepper",
+        "core": "black pepper",
+        "amount": 0.5,
+        "unit": "tsp",
+        "range": null,
+        "alternatives": [],
+        "flags": []
+      },
+      {
+        "raw": "- Honey or hot honey, for drizzling",
+        "core": "honey",
+        "amount": null,
+        "unit": null,
+        "range": null,
+        "alternatives": [
+          "hot honey"
+        ],
+        "flags": []
+      },
+      {
+        "raw": "- Balsamic glaze, for drizzling",
+        "core": "balsamic glaze",
+        "amount": null,
+        "unit": null,
+        "range": null,
+        "alternatives": [],
+        "flags": []
+      }
+    ]
+  },
+  {
     "slug": "sides/ceviche",
     "title": "Ceviche",
     "section": "sides",
@@ -21962,6 +22101,13 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "sides/index",
+    "title": "Sides Recipes",
+    "section": "sides",
+    "path": "sides/index.md",
+    "ingredients": []
   },
   {
     "slug": "sauce/chili-garlic-oil",
@@ -22391,6 +22537,13 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "sauce/index",
+    "title": "Sauce Recipes",
+    "section": "sauce",
+    "path": "sauce/index.md",
+    "ingredients": []
   },
   {
     "slug": "sauce/korean-sauce",
@@ -23131,6 +23284,13 @@
     ]
   },
   {
+    "slug": "no-meat/index",
+    "title": "No Meat Recipes",
+    "section": "no-meat",
+    "path": "no-meat/index.md",
+    "ingredients": []
+  },
+  {
     "slug": "no-meat/italian-drunken-noodles",
     "title": "Italian Drunken Noodles",
     "section": "no-meat",
@@ -23713,6 +23873,13 @@
         "flags": []
       }
     ]
+  },
+  {
+    "slug": "desserts/index",
+    "title": "Desserts Recipes",
+    "section": "desserts",
+    "path": "desserts/index.md",
+    "ingredients": []
   },
   {
     "slug": "desserts/peanut-butter-cream-pie",
